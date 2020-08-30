@@ -1,0 +1,55 @@
+#+TITLE:blog.vaarnan.com
+#+AUTHOR:Vaarnan Drolia
+#+OPTIONS: toc:nil num:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="site.css" /> <!-- Global site tag (gtag.js) - Google Analytics --> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-42744207-1"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-42744207-1'); </script>
+
+
+* [2020-08-30 Sun] Lockdown Ruminations
+
+2020 quietly dwindles away.
+
+It started in the recesses of dark London flats punctuated by lonely lockdown chats. Life slowly trickles back to "normal", our memory of normalcy but a faint recollection.
+
+'Nuuf drama and talking about the times we live in (unprec...)
+
+An exquisite dinner party with exquisite company led me to a conversation of gratitude for things done and a storage bog for the things not (yet) done.
+
+Here they are as I recall them.
+
+
+** things I did well
+
++ really connected with my inner ⭕️ of friends *in London*
+  + No particular order - Sid, Ellie, Sheraz, Adi, Devon, Jade, Gayatri
++ built [[https://vellvisher.github.io/TSExamples/][TSExamples]] and started learning TypeScript
++ built an app of my own outside of work, not done in several years
++ yoga
++ running, so much running
++ times I worked out 7min, push ups, HIIT
++ meditation everyday for 4 months
++ talked more to parents
++ read a lot, not read this much since school
++ gained a stone, highest weight I've ever had in my life (mostly 💪 I believe)
++ submitted an incubator application
++ learned to cook more
++ made a quick buck in the stock market, got better at option trading
++ (dark) estimated UK deaths to be 40k from Covid-19 in April when deaths were 4.1k
++ made this blog
+
+** things I failed (so far 🤷‍️)
+
++   online courses
++   startup incubator application
++   consistently working on my personal app
++   aerial silk conditioning
++   dance
++   consistency to workout
++   weight training
++   keep up with Spanish
++   practice German
++   continue with typescript
++   learn to play the piano better
++   talk to Bhabhi enough
++   finish the 🏠 deal
++   binge less TV/Netflix/Streaming, whatever watching moving pictures is called these days
++   taxes
