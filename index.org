@@ -3,7 +3,7 @@
 #+OPTIONS: toc:nil num:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="site.css" /> <!-- Global site tag (gtag.js) - Google Analytics --> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-42744207-1"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-42744207-1'); </script>
 
-* [2020-07-09 Thu] Eulogy to my aunt
+* [2020-07-09 Thu] Eulogy for my aunt
 
 The phone rings on queue. It's the late afternoon, post-lunch call. The bustle of the household settling now, a spare moment to relax and kick your feet back.
 
