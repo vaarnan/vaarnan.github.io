@@ -39,7 +39,7 @@ body h4 img {
 }
 body h1 {
   font-size: 42px;
-  margin-top: 40px;
+  margin-top: 20px;
 }
 body h2 {
   margin-top: 60px;
@@ -234,4 +234,11 @@ body .clearfix {
 }
 h1.title {
     font-size: x-large;
+}
+#contact-header {
+    width: 100%;
+}
+
+#contact-right {
+    text-align: right;
 }
