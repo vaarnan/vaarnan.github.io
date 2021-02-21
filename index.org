@@ -3,6 +3,23 @@
 #+OPTIONS: toc:nil num:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="site.css" /> <!-- Global site tag (gtag.js) - Google Analytics --> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-42744207-1"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-42744207-1'); </script>
 
+* [2020-07-09 Thu] Eulogy to my aunt
+
+The phone rings on queue. It's the late afternoon, post-lunch call. The bustle of the household settling now, a spare moment to relax and kick your feet back.
+
+I run over to turn on the television and move it to the Sanskaar channel - I know the phone call is from my aunt. I know this because she calls regularly to check-in on how we are doing. I know this because she watches Aastha, and Sanskaar and anything that's alternative medicine smacked on yoga smacked on home remedies. My aunt watches this because my aunt is not just my aunt. She is my godmother, grandmother and my Dad's only sister, all wrapped in one endearing package.
+
+My mum lifts the phone and hurries over to the telly giving me a soft smile for anticipating. Today's discussion is a television healer fresh with recommendations that one should devour cloves of garlic everyday to boost immunity. I know this is common knowledge in the new-age super-food era of California medicine where a chia-garlic-kale smoothie is the only way to go. Our late-90s healer is unfortunately too early to worship in California. He gets his fame in the afternoon slot typically set for a hundred million Indian mums so he can't really complain.
+
+My aunt passed away today. I don't know how to articulate how I feel. No one knows really. I got off from a round-robin set of calls between my mum, my siblings, and my distraught and silent father. They were short. Declarative. Not many words exchanged. So much said in those silent sobs and sad-hushed voices.
+
+I think my aunt lived a wonderful life. Never have I heard a mean word said, not a judgemental thought uttered about someone else. Growing up - love, patience and acceptance were all I saw from her. She was adorable in the way that she would softly repeat and insist you do something until your will-power ran down. You didn't really get angry because that feeling would be so misplaced up against her soft, warm demeanour. You just relented, and at the very least, listened.
+
+Of course, she is an Indian aunt and would have loved to see me get married (the one thing we need to do (then have kids of course)). I didn't think much about it - obviously she would be there. I assumed in my static, fixed child world-view that she has been with our family through every up and down we have seen. Every happy moment swiftly reported to her because it made her happy or every sad moment swiftly reported to her because we knew she cared. My eventual wedding just another thing that we do together.
+
+My aunt passed away today. I know now, I won't get to see her when I head back home. I know she won't be at my wedding. I know that she won't impact my life anymore. Anymore than she already has.
+
+Miss you बुआजी
 
 * [2020-08-30 Sun] Lockdown Ruminations
 
