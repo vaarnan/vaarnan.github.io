@@ -244,28 +244,28 @@ h1.title {
 }
 
 div#table-of-contents {
-    font-size: 20px;
-    float: right;
+    font-size: 16px;
     z-index: 1;
 }
 
 /* "Table of Contents" heading. */
 div#table-of-contents h2 {
-    font-size: 20px;
+    font-size: 16px;
     z-index: 100;
 }
 
 div#text-table-of-contents {
     font-size: 15px;
-    float: right;
     display: none;
-}
-
-div#text-table-of-contents span.timestamp-wrapper {
-    display: none;
+    z-index: 100;
 }
 
 /* Remove timestamps from the TOC. */
+div#text-table-of-contents span.timestamp-wrapper {
+    /* display: none; */
+}
+
+/* Remove sub-bullets from the TOC. */
 div#text-table-of-contents ul li ul {
     display: none;
 }

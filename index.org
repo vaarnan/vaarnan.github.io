@@ -3,8 +3,29 @@
 #+OPTIONS: num:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="site.css" /> <!-- Global site tag (gtag.js) - Google Analytics --> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-42744207-1"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-42744207-1'); </script> <script src="func.js"></script><script>window.onload = linkifyTableOfContents</script> <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
+* [2021-02-22 Thu] 3 Rules to keep the Sensible Snark alive in any relationship
+:PROPERTIES:
+:CUSTOM_ID: 3-rules-to-keep-the-sensible-snark-alive-in-any-relationship
+:END:
+
+You may call it banter, witty wine exchanges or just good ole' snark. The hallmark of secure relationships with both (all?) partners and friends alike, is the ability to absolutely insult the very fabric of the other's existence.
+
+Here are my three rules to keep the venomous verbiage at bay, persevere to preserve riposte revelry (new word!).
+
+1. Never comment on something the other person is insecure or being vulnerable about. It's mean, just don't.
+
+2. Sensible snark is not the way to communicate feedback or any other veiled criticism. Conversation is.
+
+3. Be quick to apologize. 90% of your jokes are bad; *funny in head \supset funny when said*.
+
+Have opinions? Maybe I'm interested, prolly not. Hit me up on [[https://twitter.com/vaarnan][twitter]]
+
+
 
 * [2020-07-09 Thu] Eulogy for my aunt
+:PROPERTIES:
+:CUSTOM_ID: eulogy-for-my-aunt
+:END:
 
 The phone rings on queue. It's the late afternoon, post-lunch call. The bustle of the household settling now, a spare moment to relax and kick your feet back.
 
@@ -23,6 +44,9 @@ My aunt passed away today. I know now, I won't get to see her when I head back h
 Miss you बुआजी
 
 * [2020-08-30 Sun] Lockdown Ruminations
+:PROPERTIES:
+:CUSTOM_ID: lockdown-ruminations
+:END:
 
 2020 quietly dwindles away.
 
