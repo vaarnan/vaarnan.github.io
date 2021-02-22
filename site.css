@@ -242,3 +242,30 @@ h1.title {
 #contact-right {
     text-align: right;
 }
+
+div#table-of-contents {
+    font-size: 20px;
+    float: right;
+    z-index: 1;
+}
+
+/* "Table of Contents" heading. */
+div#table-of-contents h2 {
+    font-size: 20px;
+    z-index: 100;
+}
+
+div#text-table-of-contents {
+    font-size: 15px;
+    float: right;
+    display: none;
+}
+
+div#text-table-of-contents span.timestamp-wrapper {
+    display: none;
+}
+
+/* Remove timestamps from the TOC. */
+div#text-table-of-contents ul li ul {
+    display: none;
+}
