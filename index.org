@@ -1,7 +1,10 @@
-#+TITLE:blog.vaarnan.com
+#+TITLE:vaarnan@'s blog
 #+AUTHOR:Vaarnan Drolia
 #+OPTIONS: num:nil
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="site.css" /> <!-- Global site tag (gtag.js) - Google Analytics --> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-42744207-1"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-42744207-1'); </script> <script src="func.js"></script><script>window.onload = linkifyTableOfContents</script> <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+#+KEYWORDS: vaarnan,drolia,simplicity,pseudorandomness,technology
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="site.css" /> <!-- Global site tag (gtag.js) - Google Analytics --> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-42744207-1"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-42744207-1'); </script> <script src="func.js"></script><script>window.onload = linkifyTableOfContents</script> <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"><!-- HTML Meta Tags --><title>vaarnan@'s blog</title><meta name="description" content="Simplicity, Pseudorandomness and Technology"><!-- Facebook Meta Tags --><meta property="og:url" content="https://blog.vaarnan.com"><meta property="og:type" content="blog"><meta property="og:title" content="vaarnan@'s blog"><meta property="og:description" content="Simplicity, Pseudorandomness and Technology"><meta property="og:image" content="https://blog.vaarnan.com/profile.png"><!-- Twitter Meta Tags --><meta name="twitter:card" content="summary_large_image"><meta property="twitter:domain" content="blog.vaarnan.com"><meta property="twitter:url" content="https://blog.vaarnan.com/"><meta name="twitter:title" content="vaarnan@'s blog"><meta name="twitter:description" content="Simplicity, Pseudorandomness and Technology"><meta name="twitter:image" content="https://blog.vaarnan.com/profile.png">
+
+
 
 * [2021-02-22 Thu] 3 Rules to keep the Sensible Snark alive in any relationship
 :PROPERTIES:
