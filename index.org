@@ -4,7 +4,36 @@
 #+KEYWORDS: vaarnan,drolia,simplicity,pseudorandomness,technology
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="site.css" /> <!-- Global site tag (gtag.js) - Google Analytics --> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-42744207-1"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-42744207-1'); </script> <script src="func.js"></script><script>window.onload = linkifyTableOfContents</script> <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"><!-- HTML Meta Tags --><title>vaarnan@'s blog</title><meta name="description" content="Simplicity, Pseudorandomness and Technology"><!-- Facebook Meta Tags --><meta property="og:url" content="https://blog.vaarnan.com"><meta property="og:type" content="blog"><meta property="og:title" content="vaarnan@'s blog"><meta property="og:description" content="Simplicity, Pseudorandomness and Technology"><meta property="og:image" content="https://blog.vaarnan.com/profile.png"><!-- Twitter Meta Tags --><meta name="twitter:card" content="summary_large_image"><meta property="twitter:domain" content="blog.vaarnan.com"><meta property="twitter:url" content="https://blog.vaarnan.com/"><meta name="twitter:title" content="vaarnan@'s blog"><meta name="twitter:description" content="Simplicity, Pseudorandomness and Technology"><meta name="twitter:image" content="https://blog.vaarnan.com/profile.png">
 
+* [2021-02-26 Fri] Dive or die
+:PROPERTIES:
+:CUSTOM_ID: dive-or-die-1
+:END:
 
+** The seed
+
+*Water is fear, fear is water.*
+
+I am in the university swimming pool with my friend.
+
+ My breathing heavy, I cannot speak. *We are in waist-deep water*. Death feels close, an easy escape. *I am supposed to swim to the end*. I am hyper-ventilating. *My friend reassures me*. My most vulnerable, my most weak.
+
+"We are a couple that goes on diving vacations, so you need to be certified", the unwavering relationship law dictated in a vacation "planning" session.
+
+S describes diving as a surreal activity where you enter an entirely different world; a world where perception is completely altered. You are not in space, but you could be. You are not flying, but you could be. You are not high, but you could be. The first time you come out of the water, there is a subtle shift in the way you think about life, you have experienced something truly beautiful.
+
+S is the Mark Antony of Antonys', a master orator. Rapture and enamor her audience she will. Lead them on and then pull back, ignite them with a thirst that begs for more. I am but a weak fearful mortal.
+
+Hell-yeah I am hooked to give this diving thing a try. I dig up requirements for a certification because S assures me that she is not a great swimmer anyway, so you don't need to swim to dive.
+
+That's when the most dreaded dive requirement that would haunt me for over a year, hits me - "be able to float on the water without aids for 10 minutes".
+
+I look at that and know immediately that it is *impossible* for me to do.
+
+Of course, we go back and forth for weeks and finally settle on going to the Maldives. Suddenly, we have a hotel with a 5-star PADI resort booked, this is the trip for my Open Water certification course. S executes, everything else flows.
+
+And so begins swimming coaching and getting as much water time as possible. My crippling anxiety reassured by S, she makes me look forward to the trip. I have not felt anxiety like this, facing lifelong fears is not my everyday.
+
+Dive or die?
 
 * [2021-02-22 Thu] 3 Rules to keep the Sensible Snark alive in any relationship
 :PROPERTIES:
