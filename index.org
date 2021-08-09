@@ -129,6 +129,191 @@ Here they are as I recall them.
 +   binge less TV/Netflix/streaming (whatever we call moving pictures)
 +   taxes
 
+* [2012-12-29 Sat] Google Varsity Challenge 2012
+:PROPERTIES:
+:CUSTOM_ID: google-varsity-challenge-2012
+:END:
+
+Quite surprisingly, I spent my day at a Business Case challenge competition hosted by Google and I learned much more from it than from the other case challenge competitions I have taken part in the past.
+
+I think the main reason for that was the instant feedback mechanism from a panel of [[https://dl.dropbox.com/u/33075650/Judges%20Profile.pdf][great judges]] with a final wrap up of the competition by the winning teams so that we could really stare at the shortcomings in our presentation.
+
+The competition format was that the cases were released last night (10:00pm) and we would be allocated one of the business cases ([[http://www.gomywayapp.com/][GoMyWay]] or [[http://lovebyte.us/][LoveByte]]) the next day. Following that was an hour for each round to solve a particular problem (monetization, marketing and competitive advantage) and present those solutions (2 min.) before the panel of judges before being grilled for another two minutes with QnA.
+
+Obviously, as one can estimate we didn't make it and thus this retrospective post to analyse it. Though we were amazed at first by the result, in hindsight I think we got to know quite well why we blew up -
+
+We required *more* pre-competition night prep. Both the winning teams said that they didn't sleep much since they worked on the case and just caught barely enough sleep to survive the day. Spending those crucial hours with the apps (GoMyWay and Love Byte) really made a difference since you could do a great deal of the idea generation which (unfortunately) was happening for us even during the last half an hour of the competition.
+
+This really distracted us and instead of pitching a few good solid ideas, each round brought in a new vision and direction which did not go down well with the judges. Though we were commended about the innovativeness of our solutions, I think that we really needed to take a few and run with them throughout the competition instead of making our presentations seem like the results of hour long brainstorming sessions.
+
+Another thing that we seriously lacked was consistency and focus with our presentation coming across as information overflow when compared to the winning team. We actually covered almost all of the ideas they covered but instead we just touched upon them instead of going deeper into how they would fare in the bigger picture.
+
+One cool thing I learned was that abbreviations as a catch line really help (yes, its very Singaporean) but you need to stick to the same abbreviation throughout the presentation and always [[http://en.wikipedia.org/wiki/KISS_principle][KISS]].
+
+This really was a great experience and I'm sure that what we have learned will help us tackle new challenges in the future...
+
+* [2012-12-14 Fri] Final words on "Journey of the Innovator"
+:PROPERTIES:
+:CUSTOM_ID: final-words-on-journey-of-the-innovator
+:END:
+
+A journey comes to an end and to conclude "Journey of the Innovator", these are three of the innumerable things I learned from this seminar series -
+
++ Endurance, persistence, resilience, dedication, passion - This is the key to any and all startups which want to make a difference. Entrepreneurship is beyond the "tag" that I have my own company and realizing that I am working day in day out for MY company.
++ Mentoring can get you very far and just spending those couple of hours absorbing from the experiences of great successful people can really make a difference in the way you think.
++ Dare to challenge the process/status quo and innovate. A bigger risk is to try nothing rather that to risk trying something.
+
+The Journey has just begun...
+
+* [2012-09-12 Wed] Sustaining Innovation - Part 3
+:PROPERTIES:
+:CUSTOM_ID: sustaining-innovation-3
+:END:
+
+The last speakers to wrap up CP2201 were the founders of TenCube, Darius Cheung & Varun Chatterji who got acquired McAfee two years ago.
+
+They began with their story about how they started out when Varun lost his cellphone and was really annoyed by the fact that he did not have a backup of his data/contacts and also that anyone could access that date from his mobile phone.
+
+So he started building this product to solve just that and also found that a couple of friends were willing to pay a few dollars a month for this service. However, in the days of there being no AppStore, this was quite a tough task and the consumer market was not a very good channel for them.
+
+Thus, they found their first customers in the police and the military who were actually paranoid about these things and generally go for technologies which are ahead of their time. And so began the journey of these two young students which can be nicely divided into roughly three parts.
+
+They started out as a service company and would be involved in building products which were quite similar to their main vision but with minor modifications to customize it according to the needs of different companies.
+
+Following this, they managed to get the Telcos on-board as well as get deals with Nokia to have the service included in some smartphones pre-installed. This was a major turning point for them since this whole process took four years.
+
+Darius adds, "When you think about the product, it makes sense for Singtel to work with you. But the thing you have to understand that though it makes sense, it is not very important for them to actually work with you. The amount of money they would make by introducing your service will be roughly the same as selling a ringtone to their customers so even if you need them, they don't really need you. Only when they are struggling to find new things to sell and the mobile penetration gets high enough is when it's time that they take you seriously."
+
+I think this piece of advice should be given to every budding entrepreneur looking to integrate their services with the overlord companies and realize the fact that it is not always about the product being good, or making sense for users to have but it also making a huge difference to a billion dollar company that they will step back and listen to you.
+Catered to a lot of different brands of the phones
+
+The final lease of fresh life into the company came with the advent of the AppStore and this really made them quite big. This was swiftly followed by a bid from McAfee to take over the company and it was then that I sensed a large amount of tension between the two founders.
+
+They had numerous reasons to sell, such as,
+
++ Scale - The company would need to scale and become very large and very fast since they had one other competitor in the valley and the big security companies did not have their own mobile security products so were looking to acquire such a company.
++ Funding - To become that big and that fast would require a large amount of money and raising seed funding and Darius honestly mentioned that he was very exhausted doing that for a third time around.
++ Investor Pressure - Their investors, including NUS, really wanted some milestones which the acquisition would really achieve and they would also help one of their major sources of funding, Startup@Singapore to make themselves the poster boys of the annual Start-up Business Plan Competition.
++ Remuneration - The amount was actually quite good (rumoured $10 million) such that they could easily start their own companies once they were done with the two year contract with McAfee.
+
+
+It was evident that Varun really disliked the idea of the acquisition since he felt that his freedom was severely curtailed and the work style of a big corporate really didn't suit him.
+
+Asked whether they would have done things differently, Darius pointed out that they wouldn't have let the big company steam roll over them with their demands and would instead have chosen to do things quite differently.
+
+"In hindsight, it is easier to connect the dots so it is actually fine if you don't know where you are going. Looking back, it was quite obvious that there was a need for an AppStore and that it would eventually come but no one actually knew when that was going to happen." - Darius
+
+After the takeover, the company mission and product didn't change but the distribution channels were quite different as they would now go through McAfee's vendors and partners. This was technically challenging but the feel of the business wing working hand in hand with the technical department of a start-up had deserted them and hierarchies got in the way.
+
+While answering the question as to why their company had nine cubes instead of ten they talked about how the real story was that Varun just wanted to make some kind of talking point for the logo so that people would remember them as they speculated about the position of the tenth cube.
+
+The press story was however, quite different, that the missing tenth cube showed their determination to strive toward continuous growth as they built the bigger cube.
+
+To wrap up their presentation, they introduced us to their latest start-ups, Sent.ly and BuildPin which they hoped would give them the same success as their first venture.
+
+While discussing Sent.ly, I really like the way Varun and his co-founder defended the model against questions regarding the usefulness of the service and Darius quipped in with, "In start-ups, the biggest thing is customers. If you have customers who want a product, then no amount of logical reasoning or intuition can stand against it."
+
+Thus, we came to a fitting end to the 4-week speaker series on fostering innovation in NUS School of Computing.
+
+* [2012-09-12 Wed] Sustaining Innovation - Part 2
+:PROPERTIES:
+:CUSTOM_ID: sustaining-innovation-2
+:END:
+
+The second speaker was Zwee (Zihuan) Wee from [[http://www.savantdegrees.com/][Savant Degrees]] and he was quite young being an NUS graduate from just four years ago. Also, being a drop out from Stanford Masters of Science, I think that he is following the "traditional" technopreneur path to making it big in the IT industry.
+
+His talk began with the difficulties of a fresh graduate and landing clients where he would face the brick wall of "why should I trust you when I have so many years of experience in the industry?".
+
+Thus, his company, whose goal was to leverage technology to stay ahead by aligning business goals, technical requirements and users had a very rough beginning. However, after this tide passed, they were able to develop into a highly skilled team from three-and-a-half members with only an engineering department to a twenty-five member team spanning across engineering, design, marketing, etc.
+
+The differentiating factor about them is what he fondly terms as "Savant Madness". They started off as engineers who asked too many questions building things according to specifications but not making money. That's when they understood that this would not be the way to work and they began making their own specifications and taking up the challenge to to tackle the desirability of the product. They ?started working with the CMO's instead of the CTO's and focusing on extracting the needs of the company to transform those into solutions which leveraged heavily on technology.
+
+Moving on to the notable projects done by SD, Zihuan spoke about [[http://give.sg/][Give.sg]] and mentioned the specification they got was how do we democratize the art of giving and that is where they began their work acting virtually like the CTO of the Give.sg team, creating a very stable platform for a great cause.
+
+Then he went on to talk about a 100-year old company in Singapore where they replaced the top 10 people of the management by McKinsey and Bane employees and SD's task was to conceptualize the product design where they went as far as flying to Europe to source for companies, working with PwC and building the support team for the 50 million dollar a year company.
+
+He mentioned that as a CEO, the main challenges he faced was in attracting and retaining the right people while on a day-to-day basis he found that he needs to manage and grow people as leaders and managers. During the networking session he also shared his belief in the policy of succession and how he really enjoyed the consulting part and dealing with clients which was missing from his current job scope.
+
+He echoed Stephen that the reason they went for investment funding so that with minority stakeholders, there came an additional layer of expertise and credibility which he found was extremely helpful. It also made the company accountable to shareholders and to diversify and continuing to build and grow.
+
+
+The part where he shared two videos with us, one of the [[http://www.youtube.com/watch?v=Yv99TwwKeXU][Dog Whisperer]] and the other of [[http://www.youtube.com/watch?v=e5RMBlLDQLk][Gordon Ramsay]] was quite eye-opening in the fact that he told us that one should be a keen observer and not just watch things or read things for the sake of watching or reading them. It's quite trivial advice but when we saw him extract key elements from these two innocuous sources of information, it really showed how he is always thinking and critically analysing things to get some form of benefit from them.
+
+Finally, there was this comic dividing people into geeks - technically capable individuals who can build things which don't always work well for normal people and wonks - people who had really good ideas but could not implement them, is a very good representative of most of the students from the School of Computing and the NUS Business School respectively. However, the best part of the comic was the introduction of this new category called "savants" - people who are technically capable of coming up with as well as solving real world problems and I could really tell that Zwee Wee belonged to that group of people.
+
+* [2012-09-12 Wed] Sustaining Innovation - Part 1
+:PROPERTIES:
+:CUSTOM_ID: sustaining-innovation-1
+:END:
+
+The final session of the CP2201 was by far the best one out of the four and brought a fitting conclusion to a unique and exciting module. It was quite an information heavy session which requires me to break up the interactions into different parts so that I can do justice to all of them.
+
+The theme for this week was "Sustaining Innovation" and I would like to laud Prof. Juzar for his efforts in planning and designing the module. I could see how well all the parts of the course fit into place and the effort put to match speakers and start-ups according to the theme of the week.
+
+Coming back, this week we had four speakers whose start-ups were already successful and they had come down to inspire us to strive towards the same.
+
+** Steven Goh
+
+This fast-talking Australian entrepreneur was actually a very good speaker but his humour and sarcasm was lost on the NUS crowd who, to my disappointment, did not receive him as well. However, I think that his accent and fast pace might also be the cause of not getting a good response since one of my friends did tell me that he couldn't understand most of what Steven was talking about.
+
+He started off by blowing us away with the numbers of his first two start-ups in the financial sector in Australia and I knew that this was a guy worth taking seriously. He then got down to talking about his newest venture, [[http://www.mig33.com/][Mig33]] which had 186,000 registered users in the first 3 months.
+
+The surprising part about Mig33 is the market that it is successful in, namely, smaller conservative countries (read Sudan, Brunei, Iran) where a virtual identity lets them realize aspirations and take on a persona which is not as easy to cultivate in their real lives. Thus, this virtual life is generally a projection of the mind's image of reality which brought me to think about the scene in the Matrix where Morpheus tells Neo that his personal looks in the Matrix is merely a projection.
+
+His costs really dropped once he shifted from SV to Singapore since he was able to drop his operating costs from 800k a month to just 100k per month as well as increase revenue from 5% to 75% (!).
+
+The juicy part of his talk was getting to understand the business model that they were relying on which really surprised me. Does anyone believe they can really make money selling people virtual gifts and avatar enhancements? Do people really buy that stuff?
+
+Apparently, they damn well do! It is the diametric opposite of Facebook. While Facebook depends on your real-world identity, Mig33, QQ depend upon virtual expression through a virtual identity which is much less conservative than the real one. Thus, they monetize on emotion and apparently people pay!
+
+Also, a good statistic he gave was that if you sent a gift to someone on let's say a dating site, and the gift actually required you to pay, there is a higher chance for you to get a reply to your gift since the person feels that you have taken an actual cost to send it to him/her and it psychologically puts a mild obligation on the person to respond. Contrast this to the meaningless cows and pokes we  (not me) are sending our friends on Facebook.
+
+Finally, his talk comprised of the differing merchant model between Mig33 and QQ where QQ had a pre-pay system, they generally go for [[http://mig33.com/business][merchants]] and have 8,000 of them who are constantly interacting and changing the business model of the system.
+
+The reason for this multi-level marketing was that the smaller merchants, who probably just shared the app with their friends, could not afford the high charges per transaction and instead preferred a larger merchant, a couple of levels up, sending the money down to them with a small fee.
+
+Following this, we had our session of question and answers which brought out some very interesting points and I really gained some very key insights which were quite different from the general opinions I have gotten.
+
+
+** Why didn't you bootstrap your company instead of going for seed funding?
+"It is not just about the money but business relationship, connections and expertise. Often there is value in not making your shares worth more but your company worth more." - SG
+
+
+** Is Mig33 looking to get acquired eventually?
+"It is my genuine belief that you should not build a company for sale but for an IPO. Only a company which has the potential for an IPO has a quality exit because the ones which have quality exits will be ones which could have gone on to be IPOs." - SG
+
+** What sets you apart from your competitors?
+"Best chat application on Nokia/Java phones, technical excellence, we target small form factor devices and have a very low data cost which is great for our target markets." - SG
+
+** Upstream
+
++ Relevant games
++ Business Relationships
+
+** Downstream
+
++ Tell people that you can double your money playing games with your friends
++ Once the merchant model works for them, they get hooked and don't leave so no turn around for merchants.
++ They trust giving money to their friends
+
+** Qualities of an entrepreneur?
+
+"Cannot underestimate the importance of flexibility, drive, endurance and a sense of humour" - SG
+
+
+** On endurance -
+
+"I was 32 years old and 140 kg eating hamburgers from a store under my office and had an inflatable bed up in my office where I spent most of my time." - SG
+
+"Silicon Valley has 1200 VC firms and you get to hear about only 20 of them. There are around 6000 venture backed firms but if you look at TechCrunch's list of top start-ups you will not be able to recognize any companies beyond around a hundred. The rosy picture painted about start-ups is far from the truth." - SG
+
+** Personal Life?
+"I am a serial husband and relationships don't work as well with start-ups. One of the biggest mistakes I made was that two hours before my first wedding (a very grand one with 600 guests), I was still in my office. One statistic you won't hear people say is that 70% of marriages fail with those associated with Series A funding." - SG
+
+To wrap up the talk, I feel that the whole concept of virtual identities was extremely new to me and something that I can really think about in new ideas.
+
+He came, he inspired and left a lot to think about!
+
 * [2012-09-04 Tue] Adapting Innovation - E-Commerce Reloaded
 :PROPERTIES:
 :CUSTOM_ID: adapting-innovation-e-commerce-reloaded
@@ -187,3 +372,119 @@ Stealing some points from all the speakers, I analysed the failure of our startu
 But, nonetheless, one has to -
 
 Keep fighting, innovating, adapting...
+
+* [2012-08-28 Tue] Scaling Innovation
+:PROPERTIES:
+:CUSTOM_ID: scaling-innovation
+:END:
+
+Today's talk in CP2201 like a walk down memory lane with the speakers sharing their personal histories with startups in such intricate detail that sometimes it required effort to extract the lessons they learned from their experiences. I think the main theme of "Scaling Innovation" was not touched upon much though.
+
+** Peng Ong Tsin
+
+It began with Peng Ong Tsin introducing us to his "Beta" Talk, "Entrepreneurship Strategy" where he started off by classifying startups into two categories, "Sustaining" and "Disruptive".
+
+He discussed examples of several different companies and technologies and where they fell in these broad categories which were a bit loosely defined.
+
+Ong Tsin was one of the people behind Gary Kreman's Match.com which (though I have never used it :D) seems quite similar to other dating sites so I could not tell whether it really is successful until I checked the [[http://www.alexa.com/siteinfo/match.com#][Alexa]] ratings for it and a rank of 81 for the US is big!
+
+Meeting entrepreneurs involved in a successful start-up is quite different from the ones who haven't quite made it yet because I find this degree of confidence coupled with humility which is not always the case with many budding entrepreneurs I have met.
+
+During his session, I really appreciated the clear cut way he deals with problems and needs of people to translate them into ideas for businesses. Often people get too caught up with the technology they are working on and its features and forget about the core problem they set out to solve while sometimes people don't even build their business around solving a problem.
+
+One cool thing about this speaker was that he was the founder of [[http://en.wikipedia.org/wiki/Encentuate][Encentuate]] and I had actually worked at the IBM Lab in Singapore which was born out of his company so I really admired this about him.
+
+At the end of the talk, he revealed that his motive behind introducing the two categories to us was so that we can decide for ourselves whether we prefer to target creating businesses which are in more established industries or to target high-risk high-gain disruptive startups. Personally, I am a problem solver so am not that stressed out about which side I am on but more that I want to do something cool and that I enjoy doing everyday :-)
+
+** John Wu
+
+The ex-Yahoo, ex-CTO of Alibaba comes across as extremely smart, passive as well as extremely likeable. During the presentation he also shared how restless he was with respect to his career getting bored by routine work and always looking for new ventures and challenges.
+
+It was nice to listen to stories about the starting point of a company like Yahoo and how the passion and dedication was reflected in their work. The pride he took in his work was also very impressive and I found his approach to things quite pragmatic.
+
+It was humorous that while he was at Oracle, people really lauded and appreciated you if you said you were leaving the company to work for a start-up and conversely got very annoyed if you were going to work for a competitor. I contrasted this to the Asian culture where I find that generally people will think you are crazy to give up a nice established paying job to work on an unstable risky venture and it is quite amazing that this culture of promoting start-ups was there so early on in SV.
+
+Another humorous anecdote was his decision to leave his position as CTO of Alibaba and become a VC because one of the reasons was that he wanted to go further up and he jokingly told Jack Ma that it didn't seem that he could really do that at Alibaba.
+
+I really liked his reason for leaving Yahoo to join Alibaba in the fact that there was no comparison of the Alibaba business model to a similar company in the US. He remarked how most of the Chinese companies were clones of successful US tech companies and he was really impressed by the Alibaba SME business model which, he said, was not suited to the US where bigger companies dominated the business environment.
+
+He also added in jest how one of the biggest benefits to Alibaba was the SARS epidemic which lead to empty trade fairs throughout China but also meant that an online portal giving importers throughout the world a door into China was in the right place at the right time.
+
+Seeing his constant desire to do something novel and unique and his current role as a VC makes me wonder how long he will last as one and what role he'll jump into next!
+
+** Danny Wilson
+
+Danny is very energetic and active speaker and if it wasn't for the lack of time, it would have been great to have interacted with him more.
+
+The beginning of his journey into entrepreneurship was quite interesting and the humorous and light-hearted presentation was extremely enjoyable. He highlighted how HP was restructuring his department at that time and not in position to execute this order for an innovative device from a Japanese client who approached him and his desire to take the project further made him become a technopreneur.
+
+I was also extremely impressed by his technical expertise which he retains even after dealing with the problems of running a company as well as managing VCs.
+
+The fact that VCs hate "walking zombies" was very interesting though I think it was a bit far-fetched since I don't think a VC would want their money to disappear completely rather than having a profitable company which has the potential of hitting it big.
+
+The emphasis he placed on marketing was the most eye-catching part of his presentation since he talked about something that many tech companies overlook and eventually see their products failing to acquire the "critical mass" and eventually not "crossing the chasm".
+
+The tips on getting free publicity and marketing were amazing and I hope that one day I will actually need to use it! :-)
+
+*BE BOLD!*
+
+* [2012-08-22 Wed] Triggering Innovation
+:PROPERTIES:
+:CUSTOM_ID: triggering-innovation
+:END:
+
+** Introduction
+The recent measure of the NUS School of Computing at promoting innovation and entrepreneurship is quite impressive via the introduction of the Innovation Track and its pilot module, CP2201 Journey of the Innovator.
+
+The first session had the theme of "Triggering Innovation" and had big names from the entrepreneurship scene of Singapore.
+
+** Wong Meng Weng
+First up was the co-founder of the JFDI academy Singapore, Wong Meng Weng, hacker extraordinaire and a Singaporean serial entrepreneur. He has a Wikipedia page of his own, which, in my humble opinion, is a big thing and his talk was no less impressive.
+
+Having taken CS3216 and attended several talks on entrepreneurship earlier (Echelon, etc.), I found that the basic ideas discussed by Wong Meng Weng are part of the general advice given to budding entrepreneurs.
+
+After a mention about the [[http://blog.skitch.com/post/9083996519/huge-skitch-is-acquired-by-evernote-a-great][Skitch acquisition]], his slides began with a nice quote by George Bernard Shaw :
+
+The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.
+
+This highlighted his first theme about progress and why innovation is necessary to push the human race forward. This was quickly followed by his definition of entrepreneurship and a comparison between resources and resourcefulness showing how the heavy resource laden MNC's are generally behind lean startups in their resourcefulness.
+
+He went on to mention the much acclaimed, [[http://en.wikipedia.org/wiki/Paul_Graham_(computer_programmer)][Paul Graham]] of Hackers and Painters fame, and this began his discourse on making products which actually have some kind of need and which are wanted by real users. Another idea, similar to [[http://www.forbes.com/sites/chunkamui/2011/10/17/five-dangerous-lessons-to-learn-from-steve-jobs/][Steve Job's]], that customers don't actually know what they want and what will make them happy. They need someone to think for them, come up with an original concept or idea or it may just be that the customers know what they want but it couldn't be built yet or was restricted by the technology of a previous generation.
+
+Eventually, the idea of "scratching your own itch", or building something just because you need it came through though a clear distinction was made from projects which lacked a vision or purpose and were just "art projects" or projects which only sought to reinvent the wheel (blame academia) instead of more successful community driven projects like Linux and Firefox which had people with well-defined visions guiding them through.
+
+The next segment was more catered to actually having your idea validated and funded and how one needs domain expertise to actually hope for success in executing an idea. A great tip that I really liked was that one may think that they don't have any competitors but it could just be the case that the idea was something that was already tried and had failed miserably years ago and it was just a new scapegoat's turn to get excited about a dead goose. Another thing to learn is that users often outgrow software and this is becoming even faster in our web-powered fast paced globally connected world so an invention makes sense only in the world it is completed in and not in the world where it first began.
+
+Finally, he concluded by with the equation,
+Customer Development != Product Development != Business Development
+
+and how many people usually end up with only one of the above three skills.
+
+He summed up his message as,
+
+Your job as an entrepreneur is to build businesses that build products and these products create value.
+
+** Muveeeeeeeee........
+
+Next up in line were the duo Terence Swee and Pete Kellock from muvee.com and they started out with the concept of scratching your itch and technological limitations by defining them as drivers and enablers respectively.
+Pete listed his factors for deciding whether an idea was worth the effort, namely,
+1. Appeal - product desire/need
+2. Competitive Advantage - what sets you apart?
+3. Feasibility - Limitations of technology
+
+They then went on and discussed their own startup experience in great detail and it was extremely insightful and enriching to learn about a successful startup from its conception to success right from the horse's mouth.
+
+One gem that I really took from the talk was about how competition copying your idea actually validates it and you just have to make sure you do better than them and see what sets you apart. This was an interesting take on the whole fear of big companies beating small fish by implementing their idea.
+
+** Design Thinking
+
+Finally, after the refreshments, we had So-Young Kang, of Awaken Group enlighten us about "Design Thinking". I would say that her talk brought a fresh new perspective to the way I think about design and creativity.
+
+Honestly, I have to admit I was skeptical initially when she shared her lofty vision and I felt that the talk would be one full of platitudes and ideals lacking substance set in a utopian fairy land.
+
+Boy! Was I proved wrong and humbled gracefully!
+By the end of the talk, I was amazed at the projects they had worked on from redesigning the Branch Office of the Housing Development Board, to coaching CEO's on managing teams and creating a profitable new attraction at Sentosa, their work seemed innovative and disruptive in its own right.
+
+Also, her answer to the question of making products which clash with the user's needs was extremely insightful in saying that we need to expand the definition of user from being just the customer to one where it includes everyone who actually uses your product and may or may not necessarily generate revenue for you.
+
+I think So-Young's talk was a fitting conclusion to today's session about "Triggering Innovation" and after such a successful start, I'm sure that CP2201 has a lot to give me (worth far more than its bid points) and I look forward to making the best of it this semester.
