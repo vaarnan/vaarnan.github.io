@@ -128,3 +128,62 @@ Here they are as I recall them.
 +   finish the 🏠 deal
 +   binge less TV/Netflix/streaming (whatever we call moving pictures)
 +   taxes
+
+* [2012-09-04 Tue] Adapting Innovation - E-Commerce Reloaded
+:PROPERTIES:
+:CUSTOM_ID: adapting-innovation-e-commerce-reloaded
+:END:
+
+I have had my own e-commerce start-up which practically blew up so I could relate to this session quite well.
+
+Thus, I wanted to list the salient points of today's talk from the different speakers.
+
+** Richard Tan - [[http://lelong.com.my][lelong.com.my]]
+
++ Serial e-commerce entrepreneur
++ Tech forum to sell things which started getting too many posts of non-tech goods
++ Instead of repeatedly deleting non-tech posts, spun off Lelong
++ Post paid payments did not work so offered a prepaid account
++ Buyers don't generally read, default top-up of RM38 instead of the minimum RM20 lead to a higher average
++ Buyers wanted to migrate from bidding to direct buying so added the feature
++ Could control the quality of the product so created a new website with curated store, Superbuy
++ Linked Superbuy to Lelong
+
+
+** Daniel Tumiwa - [[http://multiply.com][multiply.com]]
+
+
++ Radio jockey to raise money for college
++ Great twitter fan following in Indonesia
++ 180,000+ people have him in their G+ circle
++ Indonesia's energy is chaos unlike the power of structure and process in Singapore
++ Click and pray model - whether the online item will be delivered to you
++ Multiply was based out of SV but shifted to Indonesia
++ Social media changing to E-Commerce since bloggers needed to be moved to the new platform
++ Channelled excessive demand by featuring popular bloggers so they are forced to switch to an organized e-commerce solution like Multiply's
++ Death threats for removing blogging option :D
++ Purpose/Passion for the team - Quest for a Better Life: The Indonesian Dream
++ Instant gratification for the team since sellers tell them about their experience with selling items on Multiply and supporting families
++ Don't care about Credit Cards (low penetration) but connect to banks via Internet Banking
++ ATM has an e-commerce option to pay directly to Multiply
++ Google influences e-commerce heavily
++ Localization not required since a lot of Malay people interacting with the Internet understand English
++ For scaling to the masses you need Bahasa.
++ E-commerce does not agree with the global model of the Internet
++ Amazon cannot maintain the level of service/standards everywhere so wouldn't fit well if it acquired Multiply
+
+** Lai Kok Fung - [[http://buzzcity.com][buzzcity.com]]
+
++ Experienced the Dotcom crash
++ Naspers invested in BuzzCity
++ People consume media from Internet/mobile more but ad-spending on them disproportional
++ $20B Opportunity to expand to mobile
++ Three ways to advertise on mobile - Messaging, Banners, Search
+
+Stealing some points from all the speakers, I analysed the failure of our startup and found that we were "blinded by the light" by trying to do too many things that interested us and did not try to do less, simplify and focus on satisfying one need. The approach taken by Richard in this respect was quite impressive as he iteratively built and catered to his users needs. Also, we were inexperienced, didn't know much of the industry and the dedication and passion for the idea was just not in the team as a whole.
+
+
+
+But, nonetheless, one has to -
+
+Keep fighting, innovating, adapting...
