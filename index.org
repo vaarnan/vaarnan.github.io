@@ -129,6 +129,55 @@ Here they are as I recall them.
 +   binge less TV/Netflix/streaming (whatever we call moving pictures)
 +   taxes
 
+* [2012-11-15 Thu] Pumpin' my Resume Geek-Style
+:PROPERTIES:
+:CUSTOM_ID: pumpin-my-resume-geek-style
+:END:
+
+Applying for internships is taxing and after all the effort put into making my resume with fancy fonts and nice borders, I find that many companies want a "text-only" version of my resume!
+
+Though I think that it makes it easy for them to use keyword search with such a resume, I was still a bit unsure about submitting a direct copy-paste of my resume which looks extremely horrible.
+
+[[https://blog.vaarnan.com/img/curriculum_vitae.jpeg]]
+
+There comes a point in one's life when you either take the hard way and put in a large amount of effort and dedication to doing something again and again or there is the easy, lazy way reserved for Computer Scientists.
+
+No surprises which one I picked!
+
+The main problem with making a text resume is that I would now have to keep two resumes synchronized every time I made a change which is tooo much of work for me.
+
+Thus, I decided it was time to take matters into my own hands and find a decent working solution for this.
+
+Parsing a *.doc file and extracting it to make a text-only one wouldn't take much time in Python but I was sure that I can do better than that.
+
+** Latex
+
+[[https://blog.vaarnan.com/img/latex_logo.jpeg]]
+
+Enter the tool of Mathematicians and Geeks alike - Latex!
+
+It seemed quite straightforward for a Vim-lover to switch his complete resume to a text-based version and have that compile to two different copies. This was something I wanted to do for a long time and finally found a good enough justification to do so.
+
+Now, I really didn't have to worry about the ASCII one looking pretty but I didn't want to compromise on the PDF version! Also, till now I was using the Microsoft Word [[https://office.microsoft.com/en-sg/word-help/review-accept-reject-and-hide-tracked-changes-HA001218562.aspx][Markup and Review]] for a sort-of "Version Control" but thought that its time to start pushing my resume to [[http://github.com/vellvisher/resume][github]] like most of my other digital possessions.
+
+And so, after quite a bit of searching around, I finally found the best Latex resume package to be [[http://www.ctan.org/pkg/moderncv][moderncv]] with a lot of help from this "[[https://www.tug.org/pracjourn/2007-4/mori/mori.pdf][paper]]".
+
+A great help in doing that was this [[https://walrustech.wordpress.com/2011/11/18/moderncv-latex-package-a-really-easy-way-to-create-a-modern-cv/][blog post]] which got me started with moderncv.
+
+I didn't want it to vary too greatly in formatting from my resume since I find that the style is space efficient and allows a lot to be packed in. Thankfully, the new version of moderncv comes with the "banking" style which is extremely close to my original resume :-)
+
+The most painful part was redefining the banking theme to suit my needs which I finally figured out by copying the relevant *.cls and *.sty files to the same directory as my TEX file and making modifications thereafter.
+
+This time I added my own "Paper Reports" section to show the different things I have worked on in NUS and it taught me a way to [[http://stackoverflow.com/a/4605068][link to files directly]] in github so that you can download them instead of checking out the repo.
+
+** Text
+
+Finally, it came to the part of generating the Plain Text Resume and this was the part which involved a lot of brute-force. After several tests with utilities such as detex, htlatex, etc, I finalized on using [[http://catdvi.sourceforge.net/][catdvi]] to convert a latex generated dvi file into text and then use sed to fix the formatting which was quite easy to do with help from [[http://stackoverflow.com/a/2104256][this guy]].
+
+As always, I love the formatting freedom that Latex offers compared to other document processors but like all things, it came with a learning curve which isn't flat but more like a long term investment.
+
+I am quite happy with the result of the [[https://github.com/vellvisher/resume/raw/master/Resume.pdf][pdf]] and the [[https://github.com/vellvisher/resume/raw/master/Resume.txt][text file]] and hope this effort will last a lifetime!
+
 * [2012-09-29 Sat] Google Varsity Challenge 2012
 :PROPERTIES:
 :CUSTOM_ID: google-varsity-challenge-2012
