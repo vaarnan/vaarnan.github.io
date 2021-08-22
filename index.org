@@ -129,6 +129,46 @@ Here they are as I recall them.
 +   binge less TV/Netflix/streaming (whatever we call moving pictures)
 +   taxes
 
+
+
+* [2012-12-26 Wed] The Android Dvorak Bug
+:PROPERTIES:
+:CUSTOM_ID: the-android-dvorak-bug
+:END:
+
+This post details my attempts to file my first bug fix for the open source Android operating system.
+
+It all started out when I shifted to the Dvorak keyboard and changed to it on all my devices. I noticed this peculiar bug on my Nexus 7 where the top three keys didn't do what they were supposed to and instead of actually printing the correct characters as they displayed on the screen, they produced completely different and unexpected values.
+
+The first and second keys gave incorrect values but the third was even worse where it created a full blown menu of special characters and lacked the actual key it was supposed to type!
+
+An even weirder effect was that the keys worked correctly when I shift-pressed them instead of long-pressing.
+
+[[https://blog.vaarnan.com/img/dvorak-bug-1.png]]
+
+[[https://blog.vaarnan.com/img/dvorak-bug-2.png]] [[https://blog.vaarnan.com/img/dvorak-bug-3.png]] [[https://blog.vaarnan.com/img/dvorak-bug-4.png]]
+
+This really got me interested and I was itching to fix it on my own since that is the coolest thing about an open-source project!
+
+So I headed over to the [[http://source.android.com/][Android Open Source Project]] and started going through the "Getting Started" section.
+
+Building Android from source was quite straightforward after following the instructions from the site as all the dependencies had to be installed. It is quite cool that [[https://en.wikipedia.org/wiki/Goobuntu][Google uses Ubuntu]] internally which made configuration a breeze. While building, I did have to [[http://stackoverflow.com/a/13266826/1448047][hunt around]] to know that the set_stuff_for_environment command was necessary which should have been included in the instructions. Also, it takes an insane amount of time to build and had several issues with RAM running out on my system with several variants of the "make -jX" command until I settled on just the vanilla "make" command and let it run overnight.
+
+#+begin_src shell
+         emulator @nexus7 -sysdir out/target/product/generic/ \
+                  -system out/target/product/generic/system.img \
+                  -ramdisk out/target/product/generic/ramdisk.img \
+                  -data out/target/product/generic/userdata.img \
+                  -kernel ~/dev/adt-bundle-linux/sdk/system-images/android-16/armeabi-v7a/kernel-qemu
+#+end_src
+
+#+RESULTS:
+
+Finally, I executed the emulator which was automatically added to the path and the android system was up and running on my computer. Then I realized how tough it was for me to emulate the Nexus 7 and I ended up taking an extremely convoluted path by getting the Android SDK and then downloading the Android-16 kernel. Then, setting up an AVD called Nexus 7 which I ran with the following command so that it would pick up the freshly built android source (I did a detour and even built the kernel for a physical device but did have the heart to sacrifice my one and only device).
+
+Thus, the stage was set for me to develop a patch and more on how I did that in the [[https://blog.vaarnan.com/index.html#the-android-dvorak-bug-ii][next post]]...
+
+
 * [2012-11-15 Thu] Pumpin' my Resume Geek-Style
 :PROPERTIES:
 :CUSTOM_ID: pumpin-my-resume-geek-style
