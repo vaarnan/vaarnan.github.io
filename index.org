@@ -152,7 +152,7 @@ Parsing a *.doc file and extracting it to make a text-only one wouldn't take muc
 
 ** Latex
 
-[[https://blog.vaarnan.com/img/latex_logo.jpeg]]
+[[https://blog.vaarnan.com/img/latex_logo.png]]
 
 Enter the tool of Mathematicians and Geeks alike - Latex!
 
