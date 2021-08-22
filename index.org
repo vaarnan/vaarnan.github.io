@@ -129,6 +129,38 @@ Here they are as I recall them.
 +   binge less TV/Netflix/streaming (whatever we call moving pictures)
 +   taxes
 
+* [2013-09-13 Fri] Bullet Holes, Persistence and Startups with Bowei Gai :pseudorandom:startups:
+:PROPERTIES:
+:CUSTOM_ID: bullet-holes-persistence-and-startups-with-bowei-gai
+:END:
+
+[[https://blog.vaarnan.com/img/bowei_gai.jpeg]]
+
+#+BEGIN_QUOTE
+/I met a guy in Israel who told me he was sure that he will be an entrepreneur throughout his life. 'Come on man, how can you know that for sure,' I told him!
+He showed me his hand which had a bullet hole and said, 'When you have had bullets fired at you, your perspectives about life change quite fast. I know that I don't want to do a desk job for someone else throughout my life. Life is too short for that!'/
+#+END_QUOTE
+
+These were among the precious nuggets that Bowei Gai, founder of the [[http://worldstartupreport.com/][World Startup Report]], shared with aspiring entrepreneurs during the talk at the National University of Singapore, earlier today.
+
+Bowei was wrapping up the last country on his *29 country expedition* to document the *startup culture* across the world and he had a lot to share from his experiences in the past year.
+
+Just detailing his whole talk would be a Startup Report in itself because he was extremely generous in giving us candid opinions on the startup culture spanning countries like Chile, Vietnam, Malaysia, China, Korea, Japan, India......
+
+Some of the cool points that stood out were the *crazy hacker culture* in a country like Lithuania, the open and *welcoming* entrepreneurial eco-system of Philippines, the South Korea position in being the *bleeding edge* of technology and the *unique opportunities* in India.
+
+The most unbelievable fact was about the *Chilean government* and their effort to *promote Corporate Social Responsibility* by offering investments to companies in return for hours dedicated to community service. This is part of the efforts by Chile to move away from it's traditional economy dependent on activities such as mining towards attracting talent for newer-technology oriented industries.
+
+He also talked about the various problems *foreigner entrepreneurs* face in markets like Malaysia, Russia, France which are more suitable for local entrepreneurs who understand the market. Similar challenges face people in India where the infrastructure is terrible, internet penetration low but still tons of opportunity.
+
+He wrapped up the session with a quote which will serve all entrepreneurs well,
+
+#+BEGIN_QUOTE
+*Insane Persistence in the face of Complete Resistance*
+#+END_QUOTE
+
+You should definitely check him out his reports at [[http://worldstartupreport.com/][worldstartupreport.com]] and follow him on Twitter [[https://twitter.com/Bowei][@Bowei]].
+
 * [2013-02-19 Tue] Why you don't need a revenue model to be successful... :pseudorandom:startups:
 :PROPERTIES:
 :CUSTOM_ID: why-you-dont-need-a-revenue-model-to-be-successful
