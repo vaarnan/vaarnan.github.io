@@ -129,7 +129,7 @@ Here they are as I recall them.
 +   binge less TV/Netflix/streaming (whatever we call moving pictures)
 +   taxes
 
-* [2013-02-19 Tue] Why you don't need a revenue model to be successful...
+* [2013-02-19 Tue] Why you don't need a revenue model to be successful... :pseudorandom:startups:
 :PROPERTIES:
 :CUSTOM_ID: why-you-dont-need-a-revenue-model-to-be-successful
 :END:
@@ -225,7 +225,7 @@ I would love to live in a world where a poor kid in Africa has the right to a hi
 
 Let's see how this visit benefits NUS in its own adoption of e-learning technologies as Coursera is definitely leading the way in MOOCs and there is definitely a lot more that can be done.
 
-* [2012-12-26 Wed] The Android Dvorak Bug
+* [2012-12-26 Wed] The Android Dvorak Bug                    :dvorak:android:
 :PROPERTIES:
 :CUSTOM_ID: the-android-dvorak-bug
 :END:
@@ -263,7 +263,7 @@ Finally, I executed the emulator which was automatically added to the path and t
 Thus, the stage was set for me to develop a patch and more on how I did that in the [[https://blog.vaarnan.com/index.html#the-android-dvorak-bug-ii][next post]]...
 
 
-* [2012-11-15 Thu] Pumpin' my Resume Geek-Style
+* [2012-11-15 Thu] Pumpin' my Resume Geek-Style  :liveBlog:resume:textResume:
 :PROPERTIES:
 :CUSTOM_ID: pumpin-my-resume-geek-style
 :END:
@@ -312,7 +312,7 @@ As always, I love the formatting freedom that Latex offers compared to other doc
 
 I am quite happy with the result of the [[https://github.com/vellvisher/resume/raw/master/Resume.pdf][pdf]] and the [[https://github.com/vellvisher/resume/raw/master/Resume.txt][text file]] and hope this effort will last a lifetime!
 
-* [2012-09-29 Sat] Google Varsity Challenge 2012
+* [2012-09-29 Sat] Google Varsity Challenge 2012                     :google:
 :PROPERTIES:
 :CUSTOM_ID: google-varsity-challenge-2012
 :END:
@@ -335,7 +335,7 @@ One cool thing I learned was that abbreviations as a catch line really help (yes
 
 This really was a great experience and I'm sure that what we have learned will help us tackle new challenges in the future...
 
-* [2012-09-14 Fri] Final words on "Journey of the Innovator"
+* [2012-09-14 Fri] Final words on "Journey of the Innovator" :cp2201:journeyOfTheInnovator:
 :PROPERTIES:
 :CUSTOM_ID: final-words-on-journey-of-the-innovator
 :END:
@@ -348,7 +348,7 @@ A journey comes to an end and to conclude "Journey of the Innovator", these are 
 
 The Journey has just begun...
 
-* [2012-09-12 Wed] Sustaining Innovation - Part 3
+* [2012-09-12 Wed] Sustaining Innovation - Part 3                    :cp2201:journeyOfTheInnovator:
 :PROPERTIES:
 :CUSTOM_ID: sustaining-innovation-3
 :END:
@@ -398,7 +398,7 @@ While discussing Sent.ly, I really like the way Varun and his co-founder defende
 
 Thus, we came to a fitting end to the 4-week speaker series on fostering innovation in NUS School of Computing.
 
-* [2012-09-12 Wed] Sustaining Innovation - Part 2
+* [2012-09-12 Wed] Sustaining Innovation - Part 2 :cp2201:journeyOfTheInnovator:
 :PROPERTIES:
 :CUSTOM_ID: sustaining-innovation-2
 :END:
@@ -424,7 +424,7 @@ The part where he shared two videos with us, one of the [[http://www.youtube.com
 
 Finally, there was this comic dividing people into geeks - technically capable individuals who can build things which don't always work well for normal people and wonks - people who had really good ideas but could not implement them, is a very good representative of most of the students from the School of Computing and the NUS Business School respectively. However, the best part of the comic was the introduction of this new category called "savants" - people who are technically capable of coming up with as well as solving real world problems and I could really tell that Zwee Wee belonged to that group of people.
 
-* [2012-09-12 Wed] Sustaining Innovation - Part 1
+* [2012-09-12 Wed] Sustaining Innovation - Part 1 :cp2201:journeyOfTheInnovator:
 :PROPERTIES:
 :CUSTOM_ID: sustaining-innovation-1
 :END:
@@ -497,7 +497,7 @@ To wrap up the talk, I feel that the whole concept of virtual identities was ext
 
 He came, he inspired and left a lot to think about!
 
-* [2012-09-04 Tue] Adapting Innovation - E-Commerce Reloaded
+* [2012-09-04 Tue] Adapting Innovation - E-Commerce Reloaded :cp2201:journeyOfTheInnovator:
 :PROPERTIES:
 :CUSTOM_ID: adapting-innovation-e-commerce-reloaded
 :END:
@@ -556,7 +556,7 @@ But, nonetheless, one has to -
 
 Keep fighting, innovating, adapting...
 
-* [2012-08-28 Tue] Scaling Innovation
+* [2012-08-28 Tue] Scaling Innovation       :cp2201:journeyOfTheInnovator:
 :PROPERTIES:
 :CUSTOM_ID: scaling-innovation
 :END:
@@ -611,7 +611,7 @@ The tips on getting free publicity and marketing were amazing and I hope that on
 
 *BE BOLD!*
 
-* [2012-08-22 Wed] Triggering Innovation
+* [2012-08-22 Wed] Triggering Innovation    :cp2201:journeyOfTheInnovator:
 :PROPERTIES:
 :CUSTOM_ID: triggering-innovation
 :END:
