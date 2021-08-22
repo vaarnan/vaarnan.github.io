@@ -129,7 +129,7 @@ Here they are as I recall them.
 +   binge less TV/Netflix/streaming (whatever we call moving pictures)
 +   taxes
 
-* [2013-09-13 Fri] Bullet Holes, Persistence and Startups with Bowei Gai :pseudorandom:startups:
+* [2013-09-13 Fri] Bullet Holes, Persistence and Startups with Bowei Gai :startups:
 :PROPERTIES:
 :CUSTOM_ID: bullet-holes-persistence-and-startups-with-bowei-gai
 :END:
