@@ -148,7 +148,7 @@ The revenue model simply reflects its extrinsic value which is easy to explain, 
 
 The *intrinsic value*, however, is quite often difficult to quantify but more importantly, extremely difficult to predict.
 
-[[https://blog.vaarnan.com/img/intrinsic-vs-extrinsic.png]]
+[[https://blog.vaarnan.com/img/intrinsic_vs_extrinsic.png]]
 
 When Google started out, they weren't entirely sure about how they would make money ([[http://www.amazon.com/Google-Story-David-Vise/dp/0739321617][The Google Story]]) and neither were their investors, but they had a problem to solve and they went ahead and did it anyway.
 
