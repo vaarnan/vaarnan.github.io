@@ -160,6 +160,205 @@ The revenue model is to justify the plan to investors and it is more suitable to
 
 So go out there and don't get shaken up if you don't have these cool revenue models and projections that people keep talking about. Your idea may be another big success in the making.
 
+* [2013-01-20 Sun] Facebook Graph Search may kill startup(s) like Ark :facebook:startups:
+:PROPERTIES:
+:CUSTOM_ID: facebook-graph-search-may-kill-startups-like-ark
+:END:
+
+[[https://blog.vaarnan.com/img/fb_ark.png]]
+
+It is sad to see start-ups crumble at the hands of a big company but it is always a possibility which the founders of [[http://www.ark.com/][Ark]] are now facing with the beta launch of Facebook's new search called [[https://www.facebook.com/about/graphsearch/][Graph Search]].
+
+Ark started out in 2011 to solve a pain point which was long held against the tech lords, Google and Facebook, that the "people search" is just not good enough and severely underutilizes the gigantic data they possess. Ark claimed that *30% of searches are "people searches"* and the Web didn't cater to that. Thus, this company set out to change this fact and bring "people search" to the masses, something similar to what marketers on Facebook have when selecting target audiences for advertisements.
+
+For those who are clueless, "people searches" are quite different from web queries that we are generally used to on web search engines.
+
+They involve either seeing your friends with overlays such as cities they belong to, schools they have attended etc. as done by Ark vs. searching for things like *"friends who like hiking", "office friends who enjoy skiing", "dentists in san francisco who my friends go to" or "single people in my area"* as done by Facebook.
+
+In a web query, two different people can expect quite similar results (minus Google personalisation) but "people queries" will generally produce entirely different results depending upon the Social Graph of the person. This makes it an extremely hard problem to tackle and an extremely great feature to have with applications in dating, recruitment, location based recommendations to name a few.
+
+Facebook realized Ark's potential and tried to acquire them but the two co-founders, Patrick Riley and Yiming Liu, who have extensive experience with search engines, [[http://techcrunch.com/2012/05/21/after-walking-away-from-acquisition-talks-with-facebook-ark-opens-its-people-search-engine/][fought back]] the social media giant with the desire to "build something bigger".
+
+Their main selling point was the fact that Ark aggregated data from various sources like LinkedIn, Twitter, Facebook and Google to enable users to:
++ Find new people
++ Find old classmates
++ Expand their network
++ Search their friends
+
+Ark's current scope is a little different from what they [[http://techcrunch.com/2012/05/21/after-walking-away-from-acquisition-talks-with-facebook-ark-opens-its-people-search-engine/][mentioned]] last year as *TechCrunch Disrupt New York's top 6 finalists*, which was that they would look to challenge Greplin (now [[https://www.cueup.com/][Cue]]) to become a search engine for email, contacts and social media.
+
+Even Greplin has expanded to become a [[http://www.google.com/landing/now/][Google Now]] competitor and searching through your "personal clouds" in a Google search is now seen trivial compared to the enormous potential of the data that you get from the different sources.
+
+Under Ark's belt is an astounding *$5.25M of seed-funding* and they have thousands of users in on the closed beta and it is certain that they are really on to something that people have been craving for a long time.
+
+Unfortunately, a fact which the founders admitted to during the TechCrunch Disrupt is that their primary source of data is Facebook, which is reported to have over a *trillion connections* and their multi-platform approach may not add much judging by the current market share of the different social media companies.
+
+[[https://blog.vaarnan.com/img/fb_market_share.png]]
+
+This always has the inherent problem that you are depending on another company's data for your success, and that company is your master who could pull the plug on you whenever they want, as it happened last year in the case of [[http://mashable.com/2012/08/16/twitter-api-big-changes/][Twitter]].
+
+January 15th was probably a tumultuous day for Ark when Facebook announced Graph Search. It so happens that during the time they were considering acquiring Ark last spring, Mark Zuckerburg was also [[http://www.wired.com/business/2013/01/the-inside-story-of-graph-search-facebooks-weapon-to-challenge-google/all/][dispatching]] two ex-Google employees, [[https://en.wikipedia.org/wiki/Lars_Rasmussen_(software_developer)][Lars Rasmussen]] (Google Maps and Google Wave) and [[http://www.tomstocky.com/][Tom Stocky]] (Google Search, travel search), to undertake the task of establishing the "third pillar" of Facebook (after Timeline and News Feed). The announcement looks promising and if it can really take off, this may usher in a new era of knowledge search.
+
+The launch made me eager to compare the two products, but since I can't actually use either service (applied for invites from both), I made an objective comparison from what I can see in their videos.
+
+Ark is,
++ similar to Facebook in its blue-white colour scheme
++ hybrid of a LinkedIn/Facebook layout for search results
++ proving PowerSearch with suggestions to narrow down details in a search
++ filtering people by layers
+
+Facebook on the other hand,
++ integrates with the existing Facebook Search Bar
++ has a PowerBar to narrow down details in a search
++ uses powerful Natural Language Queries with [[https://en.wikipedia.org/wiki/Natural_language_processing][NLP]]
+
+The features are quite similar and both are essentially aiming to do the same thing with Graph Search in the Beta stage with a very early product which they will iterate on and improve in the months to come.
+
+Thus, from such a basic analysis, Ark's offering does not seem to be extraordinarily better than the product Facebook is marketing. Not only that, with its main social media data source becoming a major competitor, Ark is always at the risk of the Big Blue boys trying to cut its lifeline.
+
+In a surprising move, Ark co-founder Patrick Riley was [[http://www.bloomberg.com/video/ark-com-ceo-riley-on-facebook-s-new-search-tool-KaMbna2NSJSuid1Y73dlgw.html][interviewed]] by Bloomberg on January 16th to comment on Graph Search and what it meant for Ark.
+
+In the beginning, he started off by saying that they "don't see it as a threat as we are crawling across many social networks" but a large part of the interview was dominated by his discussion of Graph Search instead of him clearly outlining where Ark would exist in a world with Graph Search.
+surprisingly  When it came to whether he had any regrets about Ark not being [[http://techcrunch.com/2012/09/06/facebook-closes-instagram-acquisition-instagram-announces-5-billion-photos-shared/][an Instagram]], he said how they are a small "scrappy" start-up and had not done as much work as Instagram especially in terms of the user base.
+
+Also, he mentioned how Graph Search actually "elbowed" websites like Match.com, LinkedIn and Yelp who would be much more affected than Ark.
+
+Nonetheless, the current vision of Ark seems to be in jeopardy and they are hopefully toiling away in their San Francisco office to gauge their significance in the future.
+
+[[https://blog.vaarnan.com/img/fb_ark_see_saw.png]]
+
+I see three strategies that they can adopt to still "make it":
+
+They can still leverage on the fact that they *aggregate data from multiple sources* and use this to differentiate their product from Facebook's offering. Also, its about time that they *open up the app to the masses* since there are more than a *billion people without Graph Search* in the world right now and locking them in would help since they have the advantage of having a more mature product.
+
+This might let them survive through the impending onslaught and maybe even emerge victorious if they can build something truly superior.
+
+Otherwise, it would be a wise time for them to *pivot* to something else and not bleed blue and die at the hands of the company they scorned.
+
+A final option would be to actually look to *get acquired* by other companies who "dabble" in social media and are threatened by Graph Search which will ultimately lead to the world being where it is right now, fragmented but easier to search on, with every social media company having its own "people search".
+* [2013-01-03 Thu] The Android Dvorak Bug II                 :dvorak:android:
+:PROPERTIES:
+:CUSTOM_ID: the-android-dvorak-bug-ii
+:END:
+
+As from my [[https://blog.vaarnan.com/index.html#the-android-dvorak-bug][previous post]], after I had the emulator up and running, I had to locate the source code which produced the bug.
+
+A simple *find* with the output of the file list piped to *vim* did the trick:
+
+#+begin_src shell
+  vim `find . 2>/dev/null | grep dvorak`
+#+end_src
+
+I found that this peculiar setting was in the following file:
+
+#+begin_src
+  packages/inputmethods/LatinIME/java/res/xml-sw600dp/keys_dvorak_123.xml
+#+end_src
+
+and the offending piece of code was:
+
+#+begin_src xml
+      <Key
+         latin:keyLabel="\'"
+         latin:keyHintLabel="&quot;"
+         latin:moreKeys="!"
+         latin:keyStyle="hasShiftedLetterHintStyle" />
+
+      <Key
+         latin:keyLabel=","
+         latin:keyHintLabel="&lt;"
+         latin:moreKeys="\?"
+         latin:keyStyle="hasShiftedLetterHintStyle" />
+      <Key
+         latin:keyLabel="."
+         latin:keyHintLabel="&gt;"
+         latin:keyLabelFlags="hasPopupHint|preserveCase"
+         latin:moreKeys="!text/more_keys_for_punctuation"
+         latin:keyStyle="hasShiftedLetterHintStyle" />
+#+end_src
+
+The three buttons do have these bindings setup differently from what is expected. Though the displayed hint is a ' " ' but the character it produces on a "long-press" is a ' ! '.
+
+I quickly patched the code to the following:
+
+#+begin_src xml
+      <Key
+         latin:keyLabel="\'"
+         latin:keyHintLabel="&quot;"
+         latin:moreKeys="&quot;"
+         latin:keyStyle="hasShiftedLetterHintStyle" />
+      <Key
+         latin:keyLabel=","
+         latin:keyHintLabel="&lt;"
+         latin:moreKeys="&lt;"
+         latin:keyStyle="hasShiftedLetterHintStyle" />
+      <Key
+         latin:keyLabel="."
+         latin:keyHintLabel="&gt;"
+         latin:moreKeys="&gt;"
+         latin:keyStyle="hasShiftedLetterHintStyle" />
+#+end_src
+
+A cool thing about the AOSP is that they have many git repositories for the project which are given the appearance of this one big "repository" which is managed by [[https://en.wikipedia.org/wiki/Repo_(script)][repo]] (tool developed by Google to manage multiple git repositories).
+
+Thus, the packages/inputmethods/LatinIME is a git repository in itself and the recommended workflow is:
+
+#+begin_src shell
+  repo init -u https://android.googlesource.com/platform/manifest
+  repo init -b master
+  repo sync
+  repo start activity_creation <PATH OF GIT REPOSITORY>
+  # edit, git add, git commit, etc...
+  repo upload -t
+#+end_src
+
+This fixed a previous error I was getting (*error.GitError: remote aosp has no review url*) which was due to the branch pointing to the numbered release version which is frozen and does not accept commits vs the master branch.
+
+Finally, I got a nice commit message together and my [[https://android-review.googlesource.com/#/c/48627][patch]] was ready to be reviewed.
+
+#+begin_src shell
+  fix incorrect symbol keys on dvorak keyboard on tablets
+
+  The dvorak keyboard on tablets such as the Nexus 7 does
+  not print the correct characters to the screen for the
+  following keys in the top left part of the keyboard:
+  Displayed | Actual Printed
+  --------------------------
+  "           !
+  <           ?
+  >           more_keys_for_punctuation which does not have
+              the > key
+  This patch fixes the three keys by reassigning the output
+  to the one displayed which makes it follow the dvorak ANSI
+  standard.
+  Also, the more_keys_for_punctuation is removed
+  for the following reasons:
+      1. 8 of the keys are duplicated and do not add value
+          as the same keys are accessible directly on the
+          keyboard
+      2. More convenient fix as it doesnt break compatibility
+      3. The QWERTY equivalent does not have this so removing
+          is more standardized
+  Change-Id: I6969e4dada3c8b1ce2e31d49bbee948d9ea14f0f
+  Signed-off-by: Vaarnan Drolia <vaarnan@gmail.com>
+#+end_src
+
+That felt amazing and I was really eager about the code review but sadly, this patch was not meant to  hit the Android system and after the review and talking to a Google employee who reviewed my patch, this was the explanation:
+
+#+BEGIN_QUOTE
+The main design principle here is keeping the keyboard visual as simple as possible. We would like to avoid having extra small hint characters on a key top (as you can see on the 3rd party keyboards).
+
+Usually the letter you get with shift and with long-press is the same one on tablet, though it isn't true on phone for instance Q and 1.
+On tablet alphabet layout, we place four symbol keys. Comma(!), period(?), apostrophe("), and dash(_).
+Usual Dvorak keyboard on PC has three extra symbols on the top row, apostrophe("), comma(<), and period(>).
+
+Honoring the usual Dvorak PC layout, we decided to use three extra symbol keys exactly as same as the PC layout. But we also want to have an easy access to exclamation and question marks. That leads the current inconsistent Dvorak layout of Android.
+
+Anyway we realized the inconsistency and already have internal bug entry about it (filed by Jean who is a Dvorak lover). We will come up with nicer solution soon.
+#+END_QUOTE
+
+Well, I can only wait to see the solution they come up with at Google but until then, I have this "interesting" bug on my keyboard.
+
 * [2012-12-27 Thu] Coursera Unplugged - More valuable than a latte and much cheaper
 :PROPERTIES:
 :CUSTOM_ID: coursera-unplugged-more-valuable-than-a-latte-and-much-cheaper
@@ -218,10 +417,11 @@ Nonetheless, he said that there is a great amount of time spent by instructors a
 + *Licensing* - Some community colleges in the United States which get funding use Coursera's content in a form similar to the flipped classroom and they may be asked to pay a fee
 To conclude the discussion, he talked about how they believed in the basic right of education for all.
 
+#+BEGIN_QUOTE
 /In history, societies have created rights when they could satisfy two things - resources and moral courage to extend those rights to everyone.
 I would love to live in a world where a poor kid in Africa has the right to a high quality education./
-
-*--Andrew Ng*
+--Andrew Ng
+#+END_QUOTE
 
 Let's see how this visit benefits NUS in its own adoption of e-learning technologies as Coursera is definitely leading the way in MOOCs and there is definitely a lot more that can be done.
 
@@ -249,11 +449,7 @@ So I headed over to the [[http://source.android.com/][Android Open Source Projec
 Building Android from source was quite straightforward after following the instructions from the site as all the dependencies had to be installed. It is quite cool that [[https://en.wikipedia.org/wiki/Goobuntu][Google uses Ubuntu]] internally which made configuration a breeze. While building, I did have to [[http://stackoverflow.com/a/13266826/1448047][hunt around]] to know that the set_stuff_for_environment command was necessary which should have been included in the instructions. Also, it takes an insane amount of time to build and had several issues with RAM running out on my system with several variants of the "make -jX" command until I settled on just the vanilla "make" command and let it run overnight.
 
 #+begin_src shell
-         emulator @nexus7 -sysdir out/target/product/generic/ \
-                  -system out/target/product/generic/system.img \
-                  -ramdisk out/target/product/generic/ramdisk.img \
-                  -data out/target/product/generic/userdata.img \
-                  -kernel ~/dev/adt-bundle-linux/sdk/system-images/android-16/armeabi-v7a/kernel-qemu
+         emulator @nexus7 -sysdir out/target/product/generic/ -system out/target/product/generic/system.img -ramdisk out/target/product/generic/ramdisk.img -data out/target/product/generic/userdata.img -kernel ~/dev/adt-bundle-linux/sdk/system-images/android-16/armeabi-v7a/kernel-qemu
 #+end_src
 
 #+RESULTS:
