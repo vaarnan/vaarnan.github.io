@@ -129,7 +129,101 @@ Here they are as I recall them.
 +   binge less TV/Netflix/streaming (whatever we call moving pictures)
 +   taxes
 
+* [2013-02-19 Tue] Why you don't need a revenue model to be successful...
+:PROPERTIES:
+:CUSTOM_ID: why-you-dont-need-a-revenue-model-to-be-successful
+:END:
 
+While looking at an application for a start-up incubator programme, I came across a section which said "revenue model" and left me quite perplexed as some of my ideas had no conceivable revenue model and I could not, for the life of me, think of an adequate answer to put there.
+
+That got me thinking about the importance of a revenue model and after some time, I tossed away the concept of revenue models marking them as a secondary or incidental metric.
+
+The fact that they are quite often *incidental* is because the idea that one comes up with may have a very obvious revenue model but the reason one came up with the idea was not necessarily to generate a revenue stream in the first place. An example is Amazon or Dell where the revenue model is quite straightforward - you will make money on sales.
+
+The reason for it being *secondary* is that, when evaluating an idea, the main thing we come down to is that we want to figure out its "value".
+
+One classification of value is intrinsic and *extrinsic value* which basically mean the value of the product itself due to tangible/intangible factors or the value that people ascribe to it in terms of the money it brings in.
+
+The revenue model simply reflects its extrinsic value which is easy to explain, quantify and more importantly, rationalize for a potential investor who wants returns on his investment.
+
+The *intrinsic value*, however, is quite often difficult to quantify but more importantly, extremely difficult to predict.
+
+[[https://blog.vaarnan.com/img/intrinsic-vs-extrinsic.png]]
+
+When Google started out, they weren't entirely sure about how they would make money ([[http://www.amazon.com/Google-Story-David-Vise/dp/0739321617][The Google Story]]) and neither were their investors, but they had a problem to solve and they went ahead and did it anyway.
+
+Sure, it may be an exception and not an idea which would always work since there are enough examples and counter-examples but doing things which go against conventional wisdom are one of the primary sources of innovation.
+
+Thus, the general approach that I want to suggest is to build a product which creates value or is extremely valuable by virtue of the problem that it ends up solving.
+
+The revenue model is to justify the plan to investors and it is more suitable to find investors who believe that the product itself is valuable instead of needing to be convinced that it is going to bring home the bread. The same applies to finding co-founders/colleagues/partners.
+
+So go out there and don't get shaken up if you don't have these cool revenue models and projections that people keep talking about. Your idea may be another big success in the making.
+
+* [2012-12-27 Thu] Coursera Unplugged - More valuable than a latte and much cheaper
+:PROPERTIES:
+:CUSTOM_ID: coursera-unplugged-more-valuable-than-a-latte-and-much-cheaper
+:END:
+
+[[https://blog.vaarnan.com/img/coursera.jpeg]]
+
+I had the privilege of attending a talk by Stanford E-Learning stalwart, [[https://en.wikipedia.org/wiki/Andrew_Ng][Andrew Ng]], here at NUS today and it was a great talk organized by +Prof. Ben in which Andrew shared several things including the overall vision and goals of MOOCs in a broad sense as well as focusing on his own startup, [[https://en.wikipedia.org/wiki/Coursera][Coursera]]
+
+The main mantra guiding the Coursera team is to /"do what is best for the student"/ and there were several decisions made by Coursera that reflected this idealogy..
+
+Andrew began with a description of the Coursera platform and the various tools that were available to the instructors as well as the students which should be familiar to people who have taken courses with them.
+
+A few interesting points were -
++ playback videos at 1.5x speed which is something that I think is vital
++ auto-grading and instant feedback which helps overcome the short-comings of traditional teaching
++ accessibility is addressed with subtitles in various languages
+
+An innovative solution was the ability to have courses with subjective content "peer-graded". Studies show that peer-grading strongly correlates to the grade an instructor would give and in an environment without "competitive grading", constructive feedback is more likely to follow.
+
+Coursera "trains" you to grade scripts by helping you see real scripts graded by the instructor and then assesses your ability to grade following which you grade the answer scripts of your peers in exchange for feedback on your own assignment.
+
+Another insightful part of the talk was the amount of data gathered relating to how the students interact with content which helped the instructors tweak their courses, find key misconceptions that students had as well as personalize hints and tips for students.
+
+I am sure that a renowned expert in Machine Learning will put all this data to good use and we can expect possibly surprising things to come out of it.
+
+The community-driven forum was an example of this with the astounding metric that on an average, it takes 22 minutes for a student's query to get a reply which is the closest to near-instant feedback that I have seen any academic course have.
+
+Flipped classrooms are also offered in some universities in which the lectures are uploaded and are watched by the students on their own time while the classes are more interactive and have problem solving as well as small group sessions.
+
+An NUS academic raised the point that this does not cater to students part of the lower percentile who may not interact as much and may not do the same baseline preparations as their peers.
+
+Though he indicated this as a problem, I do not agree since a lecturer can see which students have  done the required coursework as well as know who needs the most help and focus on bringing them up to speed.
+
+Compare this to the tutorials at NUS where generally, a person who has attempted and is confident of his solution discusses it in class while the tutor is oblivious to the numerous students who did not even attempt the tutorial.
+
+Finally, we moved on to the question and answer session which was quite good, a bit uncommon for a talk in Singapore. The audience had its share of skeptics which made it an enriching session.
+
+*Academic* - how much time is required to create a course from an existing one?
+
+*Andrew* - Roughly equivalent to creating an entirely new course due to the amount of thought and effort required to adapt it this style of teaching. However, the effort is well spent since you could reach out to more students with that course than you could in an entire career.
+
+*Audience* - how do you combat spam?
+
+*Andrew* - Generally posts with too many down votes roughly five or ten disappear forever which works well although we did have to step in a few times to disable some accounts.
+
+*Audience* - how will/does Coursera make money?
+
+*Andrew* - I do not believe in charging money despite having been told by several people that they would easily pay something along the lines of $5 for accessing the content which is just the cost of a Starbucks Latte in developed countries. This argument may not hold for someone in a country like India or Africa where $5 is a lot of money and often people may not even have access to a credit card.
+
+This brought me back to my own childhood in India where I distinctly remember the various things beyond my reach when they required a credit card and no one in my family actually had one.
+
+Nonetheless, he said that there is a great amount of time spent by instructors and partner universities in preparing the content which needs to be compensated and Coursera aims to do that with the initiatives below whose revenue is shared with the partner universities.
++ *Career Services* - Coursera will share the details of top students (with permission) to potential employers in exchange for a fee payable by the companies
++ *Certificate* - Putting the seal of a university on a certificate should (as they believe) have some value and so there may be a charge for the official certificate
++ *Licensing* - Some community colleges in the United States which get funding use Coursera's content in a form similar to the flipped classroom and they may be asked to pay a fee
+To conclude the discussion, he talked about how they believed in the basic right of education for all.
+
+/In history, societies have created rights when they could satisfy two things - resources and moral courage to extend those rights to everyone.
+I would love to live in a world where a poor kid in Africa has the right to a high quality education./
+
+*--Andrew Ng*
+
+Let's see how this visit benefits NUS in its own adoption of e-learning technologies as Coursera is definitely leading the way in MOOCs and there is definitely a lot more that can be done.
 
 * [2012-12-26 Wed] The Android Dvorak Bug
 :PROPERTIES:
