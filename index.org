@@ -4,7 +4,63 @@
 #+KEYWORDS: vaarnan,drolia,simplicity,pseudorandomness,technology
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="site.css" /> <!-- Global site tag (gtag.js) - Google Analytics --> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-42744207-1"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-42744207-1'); </script> <script src="func.js"></script><script>window.onload = linkifyTableOfContents</script> <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"><!-- HTML Meta Tags --><title>vaarnan@'s blog</title><meta name="description" content="Simplicity, Pseudorandomness and Technology"><!-- Facebook Meta Tags --><meta property="og:url" content="https://blog.vaarnan.com"><meta property="og:type" content="blog"><meta property="og:title" content="vaarnan@'s blog"><meta property="og:description" content="Simplicity, Pseudorandomness and Technology"><meta property="og:image" content="https://blog.vaarnan.com/profile.png"><!-- Twitter Meta Tags --><meta name="twitter:card" content="summary_large_image"><meta property="twitter:domain" content="blog.vaarnan.com"><meta property="twitter:url" content="https://blog.vaarnan.com/"><meta name="twitter:title" content="vaarnan@'s blog"><meta name="twitter:description" content="Simplicity, Pseudorandomness and Technology"><meta name="twitter:image" content="https://blog.vaarnan.com/profile.png">
 
-* [2021-02-26 Fri] Dive or die
+* [2021-09-04 Sat] Dive or die (2)
+:PROPERTIES:
+:CUSTOM_ID: dive-or-die-2
+:END:
+
+** Touchdown Maldives
+
+The setup for my PADI Open Water course was far from ideal.
+
+A rare overcast day in the Maldives, I was paired with an instructor with language and empathy issues. The ocean was choppy and in my first ten minutes in the water, I was already doing a training dive from the shore. As soon as I put my head in the water with the regulator, I felt I could not breathe. My mind was not convinced that this shallow artificial air mask was doing anything and I began hyper-ventilating. Thumb up, gasping for breath, ABORT! I looked to S and said I can't do this, completely destroyed and about to cry. A nervous wreck.
+
+We got back and had a word with the head of the dive centre (FC) and this is where we got really really lucky. FC told me that I should rent a snorkel set and just spend a whole bunch of hours snorkeling. Once I felt comfortable with that, we would take a look at diving again.
+
+This seemed "reasonable" so I picked up the snorkel gear and started using it in the shallow end of the swimming pool trying to breathe with it and then attempting to float. Slowly, after a day of snorkeling, I felt I could venture into the "deep" end of the swimming pool.
+
+This was not enough though.
+
+My deep-rooted psychological fear of the water was greatly amplified as soon as the base of my feet touched the ocean. Beach vacations were not relaxing for me. Period. Any form of current in the water signaled me to fear for my life, a feeling that the water will suck me into it and I will experience a painful separation of life force and body.
+
+Shallow snorkeling continued consistently though and after half a day, I felt comfortable venturing into the deeper end for about 20 seconds at a time before I ventured back. I would always get up and try to stand in the water up to chest-deep to ensure zero chance of drowning.
+
+The house reef helped an enormous amount since I could focus my mental faculties on something other than breathing. Whenever I started to think about breathing, I would flail my arms about trying to calm down. Not a good strategy to calm down.
+
+On the third day, I finally felt confident and ready to give diving another try.
+
+Meanwhile, S regaled me with stories of her dives and applauded my small victories throughout the day. She was a pillar of support like no other, without S there would be no diving.
+
+Things went different this time. I had Ali, a local dive instructor who was phenomenal ❤
+
+He was well aware of my apprehensions. He started me with taking a few breaths in waist-deep water, and then popping my head out. After we repeated that a couple of times, he said that we would try to stay down.
+
+I was anxious AF and as soon as we submerged, the muted sounds started driving me crazy. Without much external stimulus, my brain was on hyper-drive screaming, "What the fuck, you can't breath.".
+
+Then Ali did something spectacular and burned a memory I will never forget - he picked up a tiny shell and started playing with it underwater, slowly passing it over to me. This was genius - I was instantly distracted from my thoughts and focusing on this tiny shell.
+
+Slowly, he started pointing out tiny fish and some of our local reef shark.
+
+Sensing I was comfortable, we next sat on the ocean bed and I showed him the basic drills - mask flooding and regulator recovery - to make sure I can do this without panicking. I was ready for this part because I had practiced these drills with my snorkel, and we then started going deeper into the water.
+
+I had learned to breathe.
+
+I was keen to continue the course but S's (infinite) wisdom was that we should do the course another time and I should simply have fun with discover scuba dives for the moment. There was no need for me to push myself through the intensive training where they will put me through excruciating but essential drills like taking off my mask, removing my weight belt, cutting off my oxygen. The certification experience was very different from a fun dive and there was no need for me to do this right now.
+
+The Bandos crew is truly 5 star and bat-shit crazy. They saw my discover scuba shore dives and asserted that I was ready to dive in the open ocean from the boat. I had a lot of trust in Ali by this point and knew that he would take care of it so I was onboard.
+
+The dives were magnificent, out-of-this-world wtf experiences - Sting Ray city where we lay down on the sand bed and were engulfed by tens of Sting Ray passing us by. I was hooked, I *needed* to dive.
+
+Ali brought me inches from three Medusa-like Giant Morey Eel in Tuna Factory though I was so comfortable with him by then that I didn't even flinch.
+
+The vacation ended on high notes that made it the best vacation I had ever had.
+
+Dive or die?
+
+/Comments on [[https://twitter.com/vaarnan][Twitter]]/
+
+
+* [2021-02-26 Fri] Dive or die (1)
 :PROPERTIES:
 :CUSTOM_ID: dive-or-die-1
 :END:
