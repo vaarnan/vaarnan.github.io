@@ -4,7 +4,52 @@
 #+KEYWORDS: vaarnan,drolia,simplicity,pseudorandomness,technology
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="site.css" /> <!-- Global site tag (gtag.js) - Google Analytics --> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-42744207-1"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-42744207-1'); </script> <script src="func.js"></script><script>window.onload = linkifyTableOfContents</script> <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"><!-- HTML Meta Tags --><title>vaarnan@'s blog</title><meta name="description" content="Simplicity, Pseudorandomness and Technology"><!-- Facebook Meta Tags --><meta property="og:url" content="https://blog.vaarnan.com"><meta property="og:type" content="blog"><meta property="og:title" content="vaarnan@'s blog"><meta property="og:description" content="Simplicity, Pseudorandomness and Technology"><meta property="og:image" content="https://blog.vaarnan.com/profile.png"><!-- Twitter Meta Tags --><meta name="twitter:card" content="summary_large_image"><meta property="twitter:domain" content="blog.vaarnan.com"><meta property="twitter:url" content="https://blog.vaarnan.com/"><meta name="twitter:title" content="vaarnan@'s blog"><meta name="twitter:description" content="Simplicity, Pseudorandomness and Technology"><meta name="twitter:image" content="https://blog.vaarnan.com/profile.png">
 
-* [2021-09-04 Sat] Dive or die (2)
+* [2021-10-30 Sat] Friendships explained by the Marvel universe :noexport:
+:PROPERTIES:
+:CUSTOM_ID: friendships-explained-by-the-marvel-universe
+:END:
+
+#+BEGIN_QUOTE
+/Are we the main hero in our story or just a side-character in someone else's story/
+#+END_QUOTE
+
+Just say this to your high achieving and well-accomplished or highly egoistical friends and see the heads roll as you assert that it's
+actually *you* that is the hero and them just a side-character. Their whole life reduced to nothing but supporting your noble quest
+going about this world doing good.
+
+In psychology, this is actually coined as the hero complex, a condition with illusions of grandeur and larger-than-life conclusions where
+one is the central theme in this severely over-populated world of 7 billion people. (XXX where is this going?)
+
+That aside though, somehow it's hard to shut down our internal voice and not feel that there is some point to our life. Not having it, is extinguishing one's ego.
+
+My take is way more generous to my precious and fragile, larger-than-me ego - we are all super-heroes much akin to the Marvel superheroes. My friends and me have our own successful/unsuccessful solo movies but regularly come together to build the highest grossing films ever sans mask and tights.
+
+* [2021-09-22 Wed] Chios (Χίος), Greece diving                           :diving:
+:PROPERTIES:
+:CUSTOM_ID: chios-greece-diving
+:END:
+
+I just missed the diving season in one of Europe's top diving spots when I was there in end-Sep 2021 but spent nearly two days searching through the entire island to see who could take me diving.
+
+Contacts below:
+
++ Hector Giourgis
+  + definitely does diving but was in Samos on a fishing trip
+  + +30 6974725459
+  + hector\under{}giourgis@hotmail.co.uk
+
++ Europas Flowpyhs
+  + 22710 76169
+  + ectozchios@yahoo.gz
+
++ Tasos Ntovellos
+  + 6937237683
+
++ [[https://kamariblueride.gr/][Kamari Blue]]
+
+/Comments on [[https://twitter.com/vaarnan][Twitter]]/
+
+* [2021-09-04 Sat] Dive or die (2) :diving:
 :PROPERTIES:
 :CUSTOM_ID: dive-or-die-2
 :END:
@@ -60,7 +105,7 @@ Dive or die?
 /Comments on [[https://twitter.com/vaarnan][Twitter]]/
 
 
-* [2021-02-26 Fri] Dive or die (1)
+* [2021-02-26 Fri] Dive or die (1) :diving:
 :PROPERTIES:
 :CUSTOM_ID: dive-or-die-1
 :END:

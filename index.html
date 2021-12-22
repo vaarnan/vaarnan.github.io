@@ -3,15 +3,15 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2021-09-04 Sat 16:15 -->
+<!-- 2021-12-22 Wed 13:51 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>vaarnan@'s blog</title>
-<meta name="generator" content="Org mode" />
 <meta name="author" content="Vaarnan Drolia" />
 <meta name="keywords" content="vaarnan,drolia,simplicity,pseudorandomness,technology" />
-<style type="text/css">
- <!--/*--><![CDATA[/*><!--*/
+<meta name="generator" content="Org Mode" />
+<style>
+  #content { max-width: 60em; margin: auto; }
   .title  { text-align: center;
              margin-bottom: .2em; }
   .subtitle { text-align: center;
@@ -32,8 +32,9 @@
   #postamble p, #preamble p { font-size: 90%; margin: .2em; }
   p.verse { margin-left: 3%; }
   pre {
-    border: 1px solid #ccc;
-    box-shadow: 3px 3px 3px #eee;
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
     padding: 8pt;
     font-family: monospace;
     overflow: auto;
@@ -42,21 +43,21 @@
   pre.src {
     position: relative;
     overflow: auto;
-    padding-top: 1.2em;
   }
   pre.src:before {
     display: none;
     position: absolute;
-    background-color: white;
-    top: -10px;
-    right: 10px;
+    top: -8px;
+    right: 12px;
     padding: 3px;
-    border: 1px solid black;
+    color: #555;
+    background-color: #f2f2f299;
   }
   pre.src:hover:before { display: inline; margin-top: 14px;}
   /* Languages per Org manual */
   pre.src-asymptote:before { content: 'Asymptote'; }
   pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
   pre.src-C:before { content: 'C'; }
   /* pre.src-C++ doesn't work in CSS */
   pre.src-clojure:before { content: 'Clojure'; }
@@ -192,31 +193,8 @@
   .org-info-js_search-highlight
     { background-color: #ffff00; color: #000000; font-weight: bold; }
   .org-svg { width: 90%; }
-  /*]]>*/-->
 </style>
 <link rel="stylesheet" type="text/css" href="site.css" /> <!-- Global site tag (gtag.js) - Google Analytics --> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-42744207-1"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-42744207-1'); </script> <script src="func.js"></script><script>window.onload = linkifyTableOfContents</script> <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"><!-- HTML Meta Tags --><title>vaarnan@'s blog</title><meta name="description" content="Simplicity, Pseudorandomness and Technology"><!-- Facebook Meta Tags --><meta property="og:url" content="https://blog.vaarnan.com"><meta property="og:type" content="blog"><meta property="og:title" content="vaarnan@'s blog"><meta property="og:description" content="Simplicity, Pseudorandomness and Technology"><meta property="og:image" content="https://blog.vaarnan.com/profile.png"><!-- Twitter Meta Tags --><meta name="twitter:card" content="summary_large_image"><meta property="twitter:domain" content="blog.vaarnan.com"><meta property="twitter:url" content="https://blog.vaarnan.com/"><meta name="twitter:title" content="vaarnan@'s blog"><meta name="twitter:description" content="Simplicity, Pseudorandomness and Technology"><meta name="twitter:image" content="https://blog.vaarnan.com/profile.png">
-<script type="text/javascript">
-// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
-<!--/*--><![CDATA[/*><!--*/
-     function CodeHighlightOn(elem, id)
-     {
-       var target = document.getElementById(id);
-       if(null != target) {
-         elem.classList.add("code-highlighted");
-         target.classList.add("code-highlighted");
-       }
-     }
-     function CodeHighlightOff(elem, id)
-     {
-       var target = document.getElementById(id);
-       if(null != target) {
-         elem.classList.remove("code-highlighted");
-         target.classList.remove("code-highlighted");
-       }
-     }
-    /*]]>*///-->
-// @license-end
-</script>
 </head>
 <body>
 <div id="preamble" class="status">
@@ -231,28 +209,29 @@
   </tr>
 </table>
 </div>
-<div id="content">
+<div id="content" class="content">
 <h1 class="title">vaarnan@'s blog</h1>
-<div id="table-of-contents">
+<div id="table-of-contents" role="doc-toc">
 <h2>Table of Contents</h2>
-<div id="text-table-of-contents">
+<div id="text-table-of-contents" role="doc-toc">
 <ul>
-<li><a href="#dive-or-die-2"><span class="timestamp-wrapper"><span class="timestamp">[2021-09-04 Sat] </span></span> Dive or die (2)</a>
+<li><a href="#chios-greece-diving"><span class="timestamp-wrapper"><span class="timestamp">[2021-09-22 Wed] </span></span> Chios (Χίος), Greece diving&#xa0;&#xa0;&#xa0;<span class="tag"><span class="diving">diving</span></span></a></li>
+<li><a href="#dive-or-die-2"><span class="timestamp-wrapper"><span class="timestamp">[2021-09-04 Sat] </span></span> Dive or die (2)&#xa0;&#xa0;&#xa0;<span class="tag"><span class="diving">diving</span></span></a>
 <ul>
-<li><a href="#org829b31f">Touchdown Maldives</a></li>
+<li><a href="#org673d3b7">Touchdown Maldives</a></li>
 </ul>
 </li>
-<li><a href="#dive-or-die-1"><span class="timestamp-wrapper"><span class="timestamp">[2021-02-26 Fri] </span></span> Dive or die (1)</a>
+<li><a href="#dive-or-die-1"><span class="timestamp-wrapper"><span class="timestamp">[2021-02-26 Fri] </span></span> Dive or die (1)&#xa0;&#xa0;&#xa0;<span class="tag"><span class="diving">diving</span></span></a>
 <ul>
-<li><a href="#org7792de2">The seed</a></li>
+<li><a href="#orgf09ff18">The seed</a></li>
 </ul>
 </li>
 <li><a href="#3-rules-to-keep-the-sensible-snark-alive-in-any-relationship"><span class="timestamp-wrapper"><span class="timestamp">[2021-02-22 Mon] </span></span> 3 Rules to keep the Sensible Snark alive in any relationship</a></li>
 <li><a href="#eulogy-for-my-aunt"><span class="timestamp-wrapper"><span class="timestamp">[2020-07-09 Thu] </span></span> Eulogy for my aunt</a></li>
 <li><a href="#lockdown-ruminations"><span class="timestamp-wrapper"><span class="timestamp">[2020-08-30 Sun] </span></span> Lockdown Ruminations</a>
 <ul>
-<li><a href="#orgc240d38">things I did well</a></li>
-<li><a href="#org631933f">things I failed (so far 🤷‍️)</a></li>
+<li><a href="#org6045a8e">things I did well</a></li>
+<li><a href="#org005c8b2">things I failed (so far 🤷‍️)</a></li>
 </ul>
 </li>
 <li><a href="#bullet-holes-persistence-and-startups-with-bowei-gai"><span class="timestamp-wrapper"><span class="timestamp">[2013-09-13 Fri] </span></span> Bullet Holes, Persistence and Startups with Bowei Gai&#xa0;&#xa0;&#xa0;<span class="tag"><span class="startups">startups</span></span></a></li>
@@ -263,8 +242,8 @@
 <li><a href="#the-android-dvorak-bug"><span class="timestamp-wrapper"><span class="timestamp">[2012-12-26 Wed] </span></span> The Android Dvorak Bug&#xa0;&#xa0;&#xa0;<span class="tag"><span class="dvorak">dvorak</span>&#xa0;<span class="android">android</span></span></a></li>
 <li><a href="#pumpin-my-resume-geek-style"><span class="timestamp-wrapper"><span class="timestamp">[2012-11-15 Thu] </span></span> Pumpin' my Resume Geek-Style&#xa0;&#xa0;&#xa0;<span class="tag"><span class="liveBlog">liveBlog</span>&#xa0;<span class="resume">resume</span>&#xa0;<span class="textResume">textResume</span></span></a>
 <ul>
-<li><a href="#org77ee0b8">Latex</a></li>
-<li><a href="#org43c92fb">Text</a></li>
+<li><a href="#org43394d8">Latex</a></li>
+<li><a href="#orgfaf33ed">Text</a></li>
 </ul>
 </li>
 <li><a href="#google-varsity-challenge-2012"><span class="timestamp-wrapper"><span class="timestamp">[2012-09-29 Sat] </span></span> Google Varsity Challenge 2012&#xa0;&#xa0;&#xa0;<span class="tag"><span class="google">google</span></span></a></li>
@@ -273,51 +252,90 @@
 <li><a href="#sustaining-innovation-2"><span class="timestamp-wrapper"><span class="timestamp">[2012-09-12 Wed] </span></span> Sustaining Innovation - Part 2&#xa0;&#xa0;&#xa0;<span class="tag"><span class="cp2201">cp2201</span>&#xa0;<span class="journeyOfTheInnovator">journeyOfTheInnovator</span></span></a></li>
 <li><a href="#sustaining-innovation-1"><span class="timestamp-wrapper"><span class="timestamp">[2012-09-12 Wed] </span></span> Sustaining Innovation - Part 1&#xa0;&#xa0;&#xa0;<span class="tag"><span class="cp2201">cp2201</span>&#xa0;<span class="journeyOfTheInnovator">journeyOfTheInnovator</span></span></a>
 <ul>
-<li><a href="#orgc05b31e">Steven Goh</a></li>
-<li><a href="#orgd6324f1">Why didn't you bootstrap your company instead of going for seed funding?</a></li>
-<li><a href="#org2c323fc">Is Mig33 looking to get acquired eventually?</a></li>
-<li><a href="#orgd26dd3b">What sets you apart from your competitors?</a></li>
-<li><a href="#orgb723888">Upstream</a></li>
-<li><a href="#org0fc8f8d">Downstream</a></li>
-<li><a href="#org7e5c7fd">Qualities of an entrepreneur?</a></li>
-<li><a href="#org8caf138">On endurance -</a></li>
-<li><a href="#org2fea9b2">Personal Life?</a></li>
+<li><a href="#orgfcd305a">Steven Goh</a></li>
+<li><a href="#org8ca6ba4">Why didn't you bootstrap your company instead of going for seed funding?</a></li>
+<li><a href="#org485c6c5">Is Mig33 looking to get acquired eventually?</a></li>
+<li><a href="#orgd38a50e">What sets you apart from your competitors?</a></li>
+<li><a href="#org2a20e23">Upstream</a></li>
+<li><a href="#org8abb9cf">Downstream</a></li>
+<li><a href="#org3884961">Qualities of an entrepreneur?</a></li>
+<li><a href="#org3dd5794">On endurance -</a></li>
+<li><a href="#org3436862">Personal Life?</a></li>
 </ul>
 </li>
 <li><a href="#adapting-innovation-e-commerce-reloaded"><span class="timestamp-wrapper"><span class="timestamp">[2012-09-04 Tue] </span></span> Adapting Innovation - E-Commerce Reloaded&#xa0;&#xa0;&#xa0;<span class="tag"><span class="cp2201">cp2201</span>&#xa0;<span class="journeyOfTheInnovator">journeyOfTheInnovator</span></span></a>
 <ul>
-<li><a href="#orgd9bff18">Richard Tan - lelong.com.my</a></li>
-<li><a href="#orgc381517">Daniel Tumiwa - multiply.com</a></li>
-<li><a href="#orgbfe3520">Lai Kok Fung - buzzcity.com</a></li>
+<li><a href="#orga2b61df">Richard Tan - lelong.com.my</a></li>
+<li><a href="#org5632508">Daniel Tumiwa - multiply.com</a></li>
+<li><a href="#org7fbb6e2">Lai Kok Fung - buzzcity.com</a></li>
 </ul>
 </li>
 <li><a href="#scaling-innovation"><span class="timestamp-wrapper"><span class="timestamp">[2012-08-28 Tue] </span></span> Scaling Innovation&#xa0;&#xa0;&#xa0;<span class="tag"><span class="cp2201">cp2201</span>&#xa0;<span class="journeyOfTheInnovator">journeyOfTheInnovator</span></span></a>
 <ul>
-<li><a href="#orgef308ea">Peng Ong Tsin</a></li>
-<li><a href="#orgf3e1e55">John Wu</a></li>
-<li><a href="#org6f827ae">Danny Wilson</a></li>
+<li><a href="#org83fb40d">Peng Ong Tsin</a></li>
+<li><a href="#org50a5a44">John Wu</a></li>
+<li><a href="#orgd283ccd">Danny Wilson</a></li>
 </ul>
 </li>
 <li><a href="#triggering-innovation"><span class="timestamp-wrapper"><span class="timestamp">[2012-08-22 Wed] </span></span> Triggering Innovation&#xa0;&#xa0;&#xa0;<span class="tag"><span class="cp2201">cp2201</span>&#xa0;<span class="journeyOfTheInnovator">journeyOfTheInnovator</span></span></a>
 <ul>
-<li><a href="#orgd336292">Introduction</a></li>
-<li><a href="#org90e457a">Wong Meng Weng</a></li>
-<li><a href="#orgd8dfff3">Muveeeeeeeee&#x2026;&#x2026;..</a></li>
-<li><a href="#orgebd2616">Design Thinking</a></li>
+<li><a href="#orge27c1de">Introduction</a></li>
+<li><a href="#org8cac13c">Wong Meng Weng</a></li>
+<li><a href="#orgce9496b">Muveeeeeeeee&#x2026;&#x2026;..</a></li>
+<li><a href="#org094d7be">Design Thinking</a></li>
 </ul>
 </li>
 </ul>
 </div>
 </div>
 
+<div id="outline-container-chios-greece-diving" class="outline-2">
+<h2 id="chios-greece-diving"><span class="timestamp-wrapper"><span class="timestamp">[2021-09-22 Wed] </span></span> Chios (Χίος), Greece diving&#xa0;&#xa0;&#xa0;<span class="tag"><span class="diving">diving</span></span></h2>
+<div class="outline-text-2" id="text-chios-greece-diving">
+<p>
+I just missed the diving season in one of Europe's top diving spots when I was there in end-Sep 2021 but spent nearly two days searching through the entire island to see who could take me diving.
+</p>
+
+<p>
+Contacts below:
+</p>
+
+<ul class="org-ul">
+<li>Hector Giourgis
+<ul class="org-ul">
+<li>definitely does diving but was in Samos on a fishing trip</li>
+<li>+30 6974725459</li>
+<li>hector_giourgis@hotmail.co.uk</li>
+</ul></li>
+
+<li>Europas Flowpyhs
+<ul class="org-ul">
+<li>22710 76169</li>
+<li>ectozchios@yahoo.gz</li>
+</ul></li>
+
+<li>Tasos Ntovellos
+<ul class="org-ul">
+<li>6937237683</li>
+</ul></li>
+
+<li><a href="https://kamariblueride.gr/">Kamari Blue</a></li>
+</ul>
+
+<p>
+<i>Comments on <a href="https://twitter.com/vaarnan">Twitter</a></i>
+</p>
+</div>
+</div>
+
 <div id="outline-container-dive-or-die-2" class="outline-2">
-<h2 id="dive-or-die-2"><span class="timestamp-wrapper"><span class="timestamp">[2021-09-04 Sat] </span></span> Dive or die (2)</h2>
+<h2 id="dive-or-die-2"><span class="timestamp-wrapper"><span class="timestamp">[2021-09-04 Sat] </span></span> Dive or die (2)&#xa0;&#xa0;&#xa0;<span class="tag"><span class="diving">diving</span></span></h2>
 <div class="outline-text-2" id="text-dive-or-die-2">
 </div>
 
-<div id="outline-container-org829b31f" class="outline-3">
-<h3 id="org829b31f">Touchdown Maldives</h3>
-<div class="outline-text-3" id="text-org829b31f">
+<div id="outline-container-org673d3b7" class="outline-3">
+<h3 id="org673d3b7">Touchdown Maldives</h3>
+<div class="outline-text-3" id="text-org673d3b7">
 <p>
 The setup for my PADI Open Water course was far from ideal.
 </p>
@@ -419,13 +437,13 @@ Dive or die?
 
 
 <div id="outline-container-dive-or-die-1" class="outline-2">
-<h2 id="dive-or-die-1"><span class="timestamp-wrapper"><span class="timestamp">[2021-02-26 Fri] </span></span> Dive or die (1)</h2>
+<h2 id="dive-or-die-1"><span class="timestamp-wrapper"><span class="timestamp">[2021-02-26 Fri] </span></span> Dive or die (1)&#xa0;&#xa0;&#xa0;<span class="tag"><span class="diving">diving</span></span></h2>
 <div class="outline-text-2" id="text-dive-or-die-1">
 </div>
 
-<div id="outline-container-org7792de2" class="outline-3">
-<h3 id="org7792de2">The seed</h3>
-<div class="outline-text-3" id="text-org7792de2">
+<div id="outline-container-orgf09ff18" class="outline-3">
+<h3 id="orgf09ff18">The seed</h3>
+<div class="outline-text-3" id="text-orgf09ff18">
 <p>
 <b>Water is fear, fear is water.</b>
 </p>
@@ -570,9 +588,9 @@ Here they are as I recall them.
 </div>
 
 
-<div id="outline-container-orgc240d38" class="outline-3">
-<h3 id="orgc240d38">things I did well</h3>
-<div class="outline-text-3" id="text-orgc240d38">
+<div id="outline-container-org6045a8e" class="outline-3">
+<h3 id="org6045a8e">things I did well</h3>
+<div class="outline-text-3" id="text-org6045a8e">
 <ul class="org-ul">
 <li>connected with my inner ⭕️ <b>in London</b>
 <ul class="org-ul">
@@ -595,9 +613,9 @@ Here they are as I recall them.
 </div>
 </div>
 
-<div id="outline-container-org631933f" class="outline-3">
-<h3 id="org631933f">things I failed (so far 🤷‍️)</h3>
-<div class="outline-text-3" id="text-org631933f">
+<div id="outline-container-org005c8b2" class="outline-3">
+<h3 id="org005c8b2">things I failed (so far 🤷‍️)</h3>
+<div class="outline-text-3" id="text-org005c8b2">
 <ul class="org-ul">
 <li>online courses</li>
 <li>startup incubator application</li>
@@ -623,7 +641,7 @@ Here they are as I recall them.
 <h2 id="bullet-holes-persistence-and-startups-with-bowei-gai"><span class="timestamp-wrapper"><span class="timestamp">[2013-09-13 Fri] </span></span> Bullet Holes, Persistence and Startups with Bowei Gai&#xa0;&#xa0;&#xa0;<span class="tag"><span class="startups">startups</span></span></h2>
 <div class="outline-text-2" id="text-bullet-holes-persistence-and-startups-with-bowei-gai">
 
-<div id="org559167c" class="figure">
+<div id="orgff67c69" class="figure">
 <p><img src="https://blog.vaarnan.com/img/bowei_gai.jpeg" alt="bowei_gai.jpeg" />
 </p>
 </div>
@@ -707,7 +725,7 @@ The <b>intrinsic value</b>, however, is quite often difficult to quantify but mo
 </p>
 
 
-<div id="orgb8dadd3" class="figure">
+<div id="org3d31e6b" class="figure">
 <p><img src="https://blog.vaarnan.com/img/intrinsic-vs-extrinsic.png" alt="intrinsic-vs-extrinsic.png" />
 </p>
 </div>
@@ -738,7 +756,7 @@ So go out there and don't get shaken up if you don't have these cool revenue mod
 <h2 id="facebook-graph-search-may-kill-startups-like-ark"><span class="timestamp-wrapper"><span class="timestamp">[2013-01-20 Sun] </span></span> Facebook Graph Search may kill startup(s) like Ark&#xa0;&#xa0;&#xa0;<span class="tag"><span class="facebook">facebook</span>&#xa0;<span class="startups">startups</span></span></h2>
 <div class="outline-text-2" id="text-facebook-graph-search-may-kill-startups-like-ark">
 
-<div id="orge87bef5" class="figure">
+<div id="org7f0ac61" class="figure">
 <p><img src="https://blog.vaarnan.com/img/fb_ark.png" alt="fb_ark.png" />
 </p>
 </div>
@@ -794,7 +812,7 @@ Unfortunately, a fact which the founders admitted to during the TechCrunch Disru
 </p>
 
 
-<div id="orgb58e41d" class="figure">
+<div id="org4b4900a" class="figure">
 <p><img src="https://blog.vaarnan.com/img/fb_market_share.png" alt="fb_market_share.png" />
 </p>
 </div>
@@ -856,7 +874,7 @@ Nonetheless, the current vision of Ark seems to be in jeopardy and they are hope
 </p>
 
 
-<div id="org2081a96" class="figure">
+<div id="org9030f9c" class="figure">
 <p><img src="https://blog.vaarnan.com/img/fb_ark_see_saw.png" alt="fb_ark_see_saw.png" />
 </p>
 </div>
@@ -1046,7 +1064,7 @@ Well, I can only wait to see the solution they come up with at Google but until 
 <h2 id="coursera-unplugged-more-valuable-than-a-latte-and-much-cheaper"><span class="timestamp-wrapper"><span class="timestamp">[2012-12-27 Thu] </span></span> Coursera Unplugged - More valuable than a latte and much cheaper</h2>
 <div class="outline-text-2" id="text-coursera-unplugged-more-valuable-than-a-latte-and-much-cheaper">
 
-<div id="org287fbe1" class="figure">
+<div id="org5909def" class="figure">
 <p><img src="https://blog.vaarnan.com/img/coursera.jpeg" alt="coursera.jpeg" />
 </p>
 </div>
@@ -1186,7 +1204,7 @@ An even weirder effect was that the keys worked correctly when I shift-pressed t
 </p>
 
 
-<div id="orgc7bd56e" class="figure">
+<div id="orgcd24ed3" class="figure">
 <p><img src="https://blog.vaarnan.com/img/dvorak-bug-1.png" alt="dvorak-bug-1.png" />
 </p>
 </div>
@@ -1235,7 +1253,7 @@ Though I think that it makes it easy for them to use keyword search with such a 
 </p>
 
 
-<div id="org859c4bf" class="figure">
+<div id="orge71457a" class="figure">
 <p><img src="https://blog.vaarnan.com/img/curriculum_vitae.jpeg" alt="curriculum_vitae.jpeg" />
 </p>
 </div>
@@ -1261,11 +1279,11 @@ Parsing a *.doc file and extracting it to make a text-only one wouldn't take muc
 </p>
 </div>
 
-<div id="outline-container-org77ee0b8" class="outline-3">
-<h3 id="org77ee0b8">Latex</h3>
-<div class="outline-text-3" id="text-org77ee0b8">
+<div id="outline-container-org43394d8" class="outline-3">
+<h3 id="org43394d8">Latex</h3>
+<div class="outline-text-3" id="text-org43394d8">
 
-<div id="org0a76355" class="figure">
+<div id="orgd185455" class="figure">
 <p><img src="https://blog.vaarnan.com/img/latex_logo.png" alt="latex_logo.png" />
 </p>
 </div>
@@ -1304,9 +1322,9 @@ This time I added my own "Paper Reports" section to show the different things I 
 </div>
 </div>
 
-<div id="outline-container-org43c92fb" class="outline-3">
-<h3 id="org43c92fb">Text</h3>
-<div class="outline-text-3" id="text-org43c92fb">
+<div id="outline-container-orgfaf33ed" class="outline-3">
+<h3 id="orgfaf33ed">Text</h3>
+<div class="outline-text-3" id="text-orgfaf33ed">
 <p>
 Finally, it came to the part of generating the Plain Text Resume and this was the part which involved a lot of brute-force. After several tests with utilities such as detex, htlatex, etc, I finalized on using <a href="http://catdvi.sourceforge.net/">catdvi</a> to convert a latex generated dvi file into text and then use sed to fix the formatting which was quite easy to do with help from <a href="http://stackoverflow.com/a/2104256">this guy</a>.
 </p>
@@ -1534,9 +1552,9 @@ Coming back, this week we had four speakers whose start-ups were already success
 </p>
 </div>
 
-<div id="outline-container-orgc05b31e" class="outline-3">
-<h3 id="orgc05b31e">Steven Goh</h3>
-<div class="outline-text-3" id="text-orgc05b31e">
+<div id="outline-container-orgfcd305a" class="outline-3">
+<h3 id="orgfcd305a">Steven Goh</h3>
+<div class="outline-text-3" id="text-orgfcd305a">
 <p>
 This fast-talking Australian entrepreneur was actually a very good speaker but his humour and sarcasm was lost on the NUS crowd who, to my disappointment, did not receive him as well. However, I think that his accent and fast pace might also be the cause of not getting a good response since one of my friends did tell me that he couldn't understand most of what Steven was talking about.
 </p>
@@ -1580,9 +1598,9 @@ Following this, we had our session of question and answers which brought out som
 </div>
 
 
-<div id="outline-container-orgd6324f1" class="outline-3">
-<h3 id="orgd6324f1">Why didn't you bootstrap your company instead of going for seed funding?</h3>
-<div class="outline-text-3" id="text-orgd6324f1">
+<div id="outline-container-org8ca6ba4" class="outline-3">
+<h3 id="org8ca6ba4">Why didn't you bootstrap your company instead of going for seed funding?</h3>
+<div class="outline-text-3" id="text-org8ca6ba4">
 <p>
 "It is not just about the money but business relationship, connections and expertise. Often there is value in not making your shares worth more but your company worth more." - SG
 </p>
@@ -1590,27 +1608,27 @@ Following this, we had our session of question and answers which brought out som
 </div>
 
 
-<div id="outline-container-org2c323fc" class="outline-3">
-<h3 id="org2c323fc">Is Mig33 looking to get acquired eventually?</h3>
-<div class="outline-text-3" id="text-org2c323fc">
+<div id="outline-container-org485c6c5" class="outline-3">
+<h3 id="org485c6c5">Is Mig33 looking to get acquired eventually?</h3>
+<div class="outline-text-3" id="text-org485c6c5">
 <p>
 "It is my genuine belief that you should not build a company for sale but for an IPO. Only a company which has the potential for an IPO has a quality exit because the ones which have quality exits will be ones which could have gone on to be IPOs." - SG
 </p>
 </div>
 </div>
 
-<div id="outline-container-orgd26dd3b" class="outline-3">
-<h3 id="orgd26dd3b">What sets you apart from your competitors?</h3>
-<div class="outline-text-3" id="text-orgd26dd3b">
+<div id="outline-container-orgd38a50e" class="outline-3">
+<h3 id="orgd38a50e">What sets you apart from your competitors?</h3>
+<div class="outline-text-3" id="text-orgd38a50e">
 <p>
 "Best chat application on Nokia/Java phones, technical excellence, we target small form factor devices and have a very low data cost which is great for our target markets." - SG
 </p>
 </div>
 </div>
 
-<div id="outline-container-orgb723888" class="outline-3">
-<h3 id="orgb723888">Upstream</h3>
-<div class="outline-text-3" id="text-orgb723888">
+<div id="outline-container-org2a20e23" class="outline-3">
+<h3 id="org2a20e23">Upstream</h3>
+<div class="outline-text-3" id="text-org2a20e23">
 <ul class="org-ul">
 <li>Relevant games</li>
 <li>Business Relationships</li>
@@ -1618,9 +1636,9 @@ Following this, we had our session of question and answers which brought out som
 </div>
 </div>
 
-<div id="outline-container-org0fc8f8d" class="outline-3">
-<h3 id="org0fc8f8d">Downstream</h3>
-<div class="outline-text-3" id="text-org0fc8f8d">
+<div id="outline-container-org8abb9cf" class="outline-3">
+<h3 id="org8abb9cf">Downstream</h3>
+<div class="outline-text-3" id="text-org8abb9cf">
 <ul class="org-ul">
 <li>Tell people that you can double your money playing games with your friends</li>
 <li>Once the merchant model works for them, they get hooked and don't leave so no turn around for merchants.</li>
@@ -1629,9 +1647,9 @@ Following this, we had our session of question and answers which brought out som
 </div>
 </div>
 
-<div id="outline-container-org7e5c7fd" class="outline-3">
-<h3 id="org7e5c7fd">Qualities of an entrepreneur?</h3>
-<div class="outline-text-3" id="text-org7e5c7fd">
+<div id="outline-container-org3884961" class="outline-3">
+<h3 id="org3884961">Qualities of an entrepreneur?</h3>
+<div class="outline-text-3" id="text-org3884961">
 <p>
 "Cannot underestimate the importance of flexibility, drive, endurance and a sense of humour" - SG
 </p>
@@ -1639,9 +1657,9 @@ Following this, we had our session of question and answers which brought out som
 </div>
 
 
-<div id="outline-container-org8caf138" class="outline-3">
-<h3 id="org8caf138">On endurance -</h3>
-<div class="outline-text-3" id="text-org8caf138">
+<div id="outline-container-org3dd5794" class="outline-3">
+<h3 id="org3dd5794">On endurance -</h3>
+<div class="outline-text-3" id="text-org3dd5794">
 <p>
 "I was 32 years old and 140 kg eating hamburgers from a store under my office and had an inflatable bed up in my office where I spent most of my time." - SG
 </p>
@@ -1652,9 +1670,9 @@ Following this, we had our session of question and answers which brought out som
 </div>
 </div>
 
-<div id="outline-container-org2fea9b2" class="outline-3">
-<h3 id="org2fea9b2">Personal Life?</h3>
-<div class="outline-text-3" id="text-org2fea9b2">
+<div id="outline-container-org3436862" class="outline-3">
+<h3 id="org3436862">Personal Life?</h3>
+<div class="outline-text-3" id="text-org3436862">
 <p>
 "I am a serial husband and relationships don't work as well with start-ups. One of the biggest mistakes I made was that two hours before my first wedding (a very grand one with 600 guests), I was still in my office. One statistic you won't hear people say is that 70% of marriages fail with those associated with Series A funding." - SG
 </p>
@@ -1682,9 +1700,9 @@ Thus, I wanted to list the salient points of today's talk from the different spe
 </p>
 </div>
 
-<div id="outline-container-orgd9bff18" class="outline-3">
-<h3 id="orgd9bff18">Richard Tan - <a href="http://lelong.com.my">lelong.com.my</a></h3>
-<div class="outline-text-3" id="text-orgd9bff18">
+<div id="outline-container-orga2b61df" class="outline-3">
+<h3 id="orga2b61df">Richard Tan - <a href="http://lelong.com.my">lelong.com.my</a></h3>
+<div class="outline-text-3" id="text-orga2b61df">
 <ul class="org-ul">
 <li>Serial e-commerce entrepreneur</li>
 <li>Tech forum to sell things which started getting too many posts of non-tech goods</li>
@@ -1699,9 +1717,9 @@ Thus, I wanted to list the salient points of today's talk from the different spe
 </div>
 
 
-<div id="outline-container-orgc381517" class="outline-3">
-<h3 id="orgc381517">Daniel Tumiwa - <a href="http://multiply.com">multiply.com</a></h3>
-<div class="outline-text-3" id="text-orgc381517">
+<div id="outline-container-org5632508" class="outline-3">
+<h3 id="org5632508">Daniel Tumiwa - <a href="http://multiply.com">multiply.com</a></h3>
+<div class="outline-text-3" id="text-org5632508">
 <ul class="org-ul">
 <li>Radio jockey to raise money for college</li>
 <li>Great twitter fan following in Indonesia</li>
@@ -1725,9 +1743,9 @@ Thus, I wanted to list the salient points of today's talk from the different spe
 </div>
 </div>
 
-<div id="outline-container-orgbfe3520" class="outline-3">
-<h3 id="orgbfe3520">Lai Kok Fung - <a href="http://buzzcity.com">buzzcity.com</a></h3>
-<div class="outline-text-3" id="text-orgbfe3520">
+<div id="outline-container-org7fbb6e2" class="outline-3">
+<h3 id="org7fbb6e2">Lai Kok Fung - <a href="http://buzzcity.com">buzzcity.com</a></h3>
+<div class="outline-text-3" id="text-org7fbb6e2">
 <ul class="org-ul">
 <li>Experienced the Dotcom crash</li>
 <li>Naspers invested in BuzzCity</li>
@@ -1761,9 +1779,9 @@ Today's talk in CP2201 like a walk down memory lane with the speakers sharing th
 </p>
 </div>
 
-<div id="outline-container-orgef308ea" class="outline-3">
-<h3 id="orgef308ea">Peng Ong Tsin</h3>
-<div class="outline-text-3" id="text-orgef308ea">
+<div id="outline-container-org83fb40d" class="outline-3">
+<h3 id="org83fb40d">Peng Ong Tsin</h3>
+<div class="outline-text-3" id="text-org83fb40d">
 <p>
 It began with Peng Ong Tsin introducing us to his "Beta" Talk, "Entrepreneurship Strategy" where he started off by classifying startups into two categories, "Sustaining" and "Disruptive".
 </p>
@@ -1794,9 +1812,9 @@ At the end of the talk, he revealed that his motive behind introducing the two c
 </div>
 </div>
 
-<div id="outline-container-orgf3e1e55" class="outline-3">
-<h3 id="orgf3e1e55">John Wu</h3>
-<div class="outline-text-3" id="text-orgf3e1e55">
+<div id="outline-container-org50a5a44" class="outline-3">
+<h3 id="org50a5a44">John Wu</h3>
+<div class="outline-text-3" id="text-org50a5a44">
 <p>
 The ex-Yahoo, ex-CTO of Alibaba comes across as extremely smart, passive as well as extremely likeable. During the presentation he also shared how restless he was with respect to his career getting bored by routine work and always looking for new ventures and challenges.
 </p>
@@ -1827,9 +1845,9 @@ Seeing his constant desire to do something novel and unique and his current role
 </div>
 </div>
 
-<div id="outline-container-org6f827ae" class="outline-3">
-<h3 id="org6f827ae">Danny Wilson</h3>
-<div class="outline-text-3" id="text-org6f827ae">
+<div id="outline-container-orgd283ccd" class="outline-3">
+<h3 id="orgd283ccd">Danny Wilson</h3>
+<div class="outline-text-3" id="text-orgd283ccd">
 <p>
 Danny is very energetic and active speaker and if it wasn't for the lack of time, it would have been great to have interacted with him more.
 </p>
@@ -1866,9 +1884,9 @@ The tips on getting free publicity and marketing were amazing and I hope that on
 <div class="outline-text-2" id="text-triggering-innovation">
 </div>
 
-<div id="outline-container-orgd336292" class="outline-3">
-<h3 id="orgd336292">Introduction</h3>
-<div class="outline-text-3" id="text-orgd336292">
+<div id="outline-container-orge27c1de" class="outline-3">
+<h3 id="orge27c1de">Introduction</h3>
+<div class="outline-text-3" id="text-orge27c1de">
 <p>
 The recent measure of the NUS School of Computing at promoting innovation and entrepreneurship is quite impressive via the introduction of the Innovation Track and its pilot module, CP2201 Journey of the Innovator.
 </p>
@@ -1879,9 +1897,9 @@ The first session had the theme of "Triggering Innovation" and had big names fro
 </div>
 </div>
 
-<div id="outline-container-org90e457a" class="outline-3">
-<h3 id="org90e457a">Wong Meng Weng</h3>
-<div class="outline-text-3" id="text-org90e457a">
+<div id="outline-container-org8cac13c" class="outline-3">
+<h3 id="org8cac13c">Wong Meng Weng</h3>
+<div class="outline-text-3" id="text-org8cac13c">
 <p>
 First up was the co-founder of the JFDI academy Singapore, Wong Meng Weng, hacker extraordinaire and a Singaporean serial entrepreneur. He has a Wikipedia page of his own, which, in my humble opinion, is a big thing and his talk was no less impressive.
 </p>
@@ -1933,9 +1951,9 @@ Your job as an entrepreneur is to build businesses that build products and these
 </div>
 </div>
 
-<div id="outline-container-orgd8dfff3" class="outline-3">
-<h3 id="orgd8dfff3">Muveeeeeeeee&#x2026;&#x2026;..</h3>
-<div class="outline-text-3" id="text-orgd8dfff3">
+<div id="outline-container-orgce9496b" class="outline-3">
+<h3 id="orgce9496b">Muveeeeeeeee&#x2026;&#x2026;..</h3>
+<div class="outline-text-3" id="text-orgce9496b">
 <p>
 Next up in line were the duo Terence Swee and Pete Kellock from muvee.com and they started out with the concept of scratching your itch and technological limitations by defining them as drivers and enablers respectively.
 Pete listed his factors for deciding whether an idea was worth the effort, namely,
@@ -1956,9 +1974,9 @@ One gem that I really took from the talk was about how competition copying your 
 </div>
 </div>
 
-<div id="outline-container-orgebd2616" class="outline-3">
-<h3 id="orgebd2616">Design Thinking</h3>
-<div class="outline-text-3" id="text-orgebd2616">
+<div id="outline-container-org094d7be" class="outline-3">
+<h3 id="org094d7be">Design Thinking</h3>
+<div class="outline-text-3" id="text-org094d7be">
 <p>
 Finally, after the refreshments, we had So-Young Kang, of Awaken Group enlighten us about "Design Thinking". I would say that her talk brought a fresh new perspective to the way I think about design and creativity.
 </p>
@@ -1985,7 +2003,7 @@ I think So-Young's talk was a fitting conclusion to today's session about "Trigg
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: Vaarnan Drolia</p>
-<p class="date">Created: 2021-09-04 Sat 16:15</p>
+<p class="date">Created: 2021-12-22 Wed 13:51</p>
 <p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
