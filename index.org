@@ -4,6 +4,23 @@
 #+KEYWORDS: vaarnan,drolia,simplicity,pseudorandomness,technology
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="site.css" /> <!-- Global site tag (gtag.js) - Google Analytics --> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-42744207-1"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-42744207-1'); </script> <script src="func.js"></script><script>window.onload = linkifyTableOfContents</script> <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"><!-- HTML Meta Tags --><title>vaarnan@'s blog</title><meta name="description" content="Simplicity, Pseudorandomness and Technology"><!-- Facebook Meta Tags --><meta property="og:url" content="https://blog.vaarnan.com"><meta property="og:type" content="blog"><meta property="og:title" content="vaarnan@'s blog"><meta property="og:description" content="Simplicity, Pseudorandomness and Technology"><meta property="og:image" content="https://blog.vaarnan.com/profile.png"><!-- Twitter Meta Tags --><meta name="twitter:card" content="summary_large_image"><meta property="twitter:domain" content="blog.vaarnan.com"><meta property="twitter:url" content="https://blog.vaarnan.com/"><meta name="twitter:title" content="vaarnan@'s blog"><meta name="twitter:description" content="Simplicity, Pseudorandomness and Technology"><meta name="twitter:image" content="https://blog.vaarnan.com/profile.png">
 
+* [2021-12-28] Coding the Brew puzzle 24th December
+:PROPERTIES:
+:CUSTOM_ID: coding-the-brew-puzzle-24th-december
+:END:
+
+Was catching up on the only newsletter I read everyday, the [[https://morningbrew.com/daily/r/?kid=7fe756][Morning Brew]], and came across their puzzle.
+
+#+BEGIN_QUOTE
+*Your task is to make 100 by placing pluses and minuses in the string of digits 9 8 7 6 5 4 3 2 1 in that order. But that’s not actually your only task. To get full credit on this puzzle, you must find the least number of pluses and minuses needed to get to 100.*
+#+END_QUOTE
+
+I got the correct answer in my second attempt but wasn't sure it was the "least number" of symbols, so I wrote some code to check it 😆🤓
+
+[[https://github.com/vellvisher/random/blob/main/brew_symbols_puzzle.swift][*Code here*]]
+
+/Disclaimer: Probably has bugs and can be written better, PRs and comments on [[https://twitter.com/vaarnan][Twitter]] welcome!/
+
 * [2021-10-30 Sat] Friendships explained by the Marvel universe :noexport:
 :PROPERTIES:
 :CUSTOM_ID: friendships-explained-by-the-marvel-universe
