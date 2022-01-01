@@ -1,7 +1,11 @@
+html {
+    font-size: 20px;
+}
+
 body {
-  font-family: 'Fira Sans', Helvetica, sans-serif;
+  font-family: "Crimson Pro",sans-serif;
   line-height: 1.5;
-  font-size: 18px;
+  font-size: 20px;
   background: #fff;
   color: #666;
   margin: 0;
@@ -38,16 +42,16 @@ body h4 img {
   border: 0 none;
 }
 body h1 {
-  font-size: 42px;
+  font-size: 2.5rem;
   margin-top: 20px;
 }
 body h2 {
   margin-top: 60px;
   position: relative;
-  font-size: 32px;
+  font-size: 2.2rem;
 }
 body h3 {
-  font-size: 22px;
+  font-size: 1.8rem;
   margin-top: 40px;
   font-weight: bold;
 }
@@ -67,7 +71,7 @@ body pre {
 }
 body pre.src {
   overflow-y: auto !important;
-  font-size: 16px;
+  font-size: 0.8rem;
 }
 body code {
   background: #eee;
@@ -112,27 +116,6 @@ body .tag span {
   padding: 2px 5px;
   border-radius: 4px;
 }
-body .pubdate {
-  color: #aaa;
-  font-size: 14px;
-  margin-bottom: 20px;
-  margin-top: -16px;
-  text-align: right;
-  border-bottom: 1px solid #e2e2e2;
-}
-body .pubdate p {
-  display: inline;
-  margin-right: 10px;
-}
-@media (max-width: 800px) {
-  body .pubdate {
-    margin-top: 0;
-    text-align: left;
-  }
-}
-body .nav-blog {
-  text-align: right;
-}
 body .org-info-js_info-navigation {
   background: #bbb;
 }
@@ -166,53 +149,6 @@ body #postamble a {
     position: relative;
   }
 }
-body .intro {
-  padding-top: 20px;
-  color: #BBB;
-  text-align: center;
-}
-body .intro h1 {
-  font-size: 42px;
-  font-weight: bold;
-  line-height: 1em;
-  margin: .3em;
-  padding: 0;
-}
-body .intro p {
-  color: #aaa;
-  font-size: 14px !important;
-  text-align: center;
-}
-body .intro img {
-  border-radius: 100%;
-  width: 100px;
-}
-body .nav {
-  text-align: center;
-  margin-top: 30px;
-  border-bottom: 1px solid #e2e2e2;
-  font-size: 12px;
-  text-transform: uppercase;
-}
-body .nav ul {
-  list-style: none;
-  padding: 0;
-}
-body .nav ul li {
-  color: #999;
-  display: inline-block;
-  margin: 0;
-}
-body .nav ul li a {
-  display: inline-block;
-  padding-right: 6px;
-  border-radius: 0;
-  font-weight: normal;
-  color: #6a6a6a;
-}
-body #disqus_thread {
-  margin-top: 40px;
-}
 body .clearfix {
   clear: both;
 }
@@ -229,11 +165,11 @@ body .clearfix {
 
 .timestamp {
     color: #bebebe;
-    font-size: medium;
+    font-size: 1rem;
     display:block;
 }
 h1.title {
-    font-size: x-large;
+    font-size: 1.8rem;
 }
 #contact-header {
     width: 100%;
@@ -244,18 +180,18 @@ h1.title {
 }
 
 div#table-of-contents {
-    font-size: 16px;
+    font-size: 1.2rem;
     z-index: 1;
 }
 
 /* "Table of Contents" heading. */
 div#table-of-contents h2 {
-    font-size: 16px;
+    font-size: 1.2rem;
     z-index: 100;
 }
 
 div#text-table-of-contents {
-    font-size: 15px;
+    font-size: 1rem;
     display: none;
     z-index: 100;
 }
