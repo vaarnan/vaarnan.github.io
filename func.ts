@@ -17,7 +17,6 @@ const orgDateToHumanDate = function() {
     let options: any = { weekday: "short", year: 'numeric', month: 'short', day: 'numeric' }
 
     for (let timestamp of timestamps) {
-        console.log(timestamp)
         timestamp.innerHTML = new Date(timestamp.innerHTML.substring(1,11)).toLocaleDateString(undefined, options)
     }
 }
