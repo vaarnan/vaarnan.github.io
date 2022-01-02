@@ -108,7 +108,9 @@ body img.spaced-border {
 }
 body .tag {
   background: transparent;
-  font-size: 0.6em;
+  font-size: 0.8rem;
+  /* Moves tags to the next line and prevents extra white-space. */
+  display:block;
 }
 body .tag span {
   background: #1692cc;
@@ -204,4 +206,9 @@ div#text-table-of-contents span.timestamp-wrapper {
 /* Remove sub-bullets from the TOC. */
 div#text-table-of-contents ul li ul {
     display: none;
+}
+
+/* Slightly smaller tags for TOC. */
+div#text-table-of-contents .tag {
+    font-size: 0.6rem;
 }
