@@ -88,6 +88,11 @@ body img {
   border: 1px solid #ccc;
   height: auto;
 }
+/* Make image responsive and not exceed viewport. */
+.responsive {
+    width: 100%;
+    height: auto;
+}
 @media (max-width: 800px) {
   body img {
     max-width: 100%;
