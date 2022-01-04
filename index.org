@@ -10,6 +10,61 @@
 #+HTML_HEAD: <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 #+HTML_HEAD: <!-- HTML Meta Tags --><title>vaarnan@'s blog</title><meta name="description" content="Simplicity, Pseudorandomness and Technology"><!-- Facebook Meta Tags --><meta property="og:url" content="https://blog.vaarnan.com"><meta property="og:type" content="blog"><meta property="og:title" content="vaarnan@'s blog"><meta property="og:description" content="Simplicity, Pseudorandomness and Technology"><meta property="og:image" content="https://blog.vaarnan.com/profile.png"><!-- Twitter Meta Tags --><meta name="twitter:card" content="summary_large_image"><meta property="twitter:domain" content="blog.vaarnan.com"><meta property="twitter:url" content="https://blog.vaarnan.com/"><meta name="twitter:title" content="vaarnan@'s blog"><meta name="twitter:description" content="Simplicity, Pseudorandomness and Technology"><meta name="twitter:image" content="https://blog.vaarnan.com/profile.png">
 
+* [2022-01-03 Mon] Dive or die (3)                                   :diving:
+:PROPERTIES:
+:CUSTOM_ID: dive-or-die-3
+:END:
+
+** Utila, Honduras - Getting certified
+
+[[https://blog.vaarnan.com/img/utila_katrina_me.jpeg]]
+
+Utila was a meticulously researched dive vacation at the [[https://www.utiladivecenter.com/][Utila Dive Center]], the most professional center for diving. S had a plan for me - [[https://www.padi.com/courses/scuba-diver][Scuba Diver]] (12m max) certification with a private instructor.
+
+Enter [[https://www.facebook.com/Ivana.Inglesina][Ivana the Unfazed]] - I detail my apprehensions to her with the nervousness of a 10-year-old embarrassed about their low reading level. I also explain that I would definitely fail the 10min floating test, perhaps 3min would be alright? Ivana being Ivana, is confident that I would complete the course even after I remind her that I had failed before even starting. She shrugs off doubt with the confidence of someone who has seen it all.
+
+Looking back, I had way less faith in myself than she had in herself.
+
+As soon as I was signed up, she gave me the materials to study and said we would meet the next morning. We returned for dinner and I began studying in earnest - right through dinner and several hours prior to bed.
+
+When I turned up the next morning and met Ivana, I expected to start the dive or theory part of the course. She told me we were going to get the floating requirement "out of the way". "WHAT?" "Let's go" she said and I was stunned, my demons were about to be exposed.
+
+We went to a barge out in the open ocean and Ivana assured me, "the water is so salty, that it doesn't want you. All you have to do is lie back and you won't be able to sink." Words, just floating words to me at the time.
+
+I jumped into the water and splashed about until I could hang onto a ledge with one hand and a line with the other. She didn't get in probably to prevent me from clawing on and pulling the two of us into the water. She told me to lie back, and let the rope go while she started the timer. Thereafter, she kept talking non-stop for the next 10 minutes reassuring me that she was there though I could barely see or hear her while lying on my back.
+
+She understood the psychological importance of making me feel that she was there and it was the most encouraging speech for 10 minutes for simply floating on the water. I would pull my ears out of the water from time to time and hear her voice, tense up a bit and feel like I'm sinking before settling my head back into the water. In the first attempt at floating, we had done it. The single diving requirement that had plagued me for 1 year was now under my belt and I would never have to prove it again.
+
+Then I met my instructor for the course, [[https://www.facebook.com/profile.php?id=100000323394503][Katrina]] and she was her own force of nature. Her job was to get me through the training for the next few days and the most important moment was the first time we entered the water with the dive gear.
+
+I started breathing in the shallow and when I put my head in, all my fears returned and I popped it back up. I started to hyper-ventilate again and told Kat that I wanted to step out of the water. Just for a short while and then we could start again. She held on to me with a reassuring hand and said, "I don't think that's a good idea. Listen to me, I have over 10,000 dives and you can trust me that we should go back down. Trust me." That was an instant ton of credibility she earned in a few words and I kept repeating 10,000 dives in my head and we went back down.
+
+I started breathing shallow and then slowly, started to get better and relax.
+
+The course was on.
+
+When I met S at the end of the day, I was grinning from ear to ear. In the same day, I had completed the floatation test and my first confined drill dive. I think she found it hard to believe as well 🥲
+
+My over-ambitious flaw kicked in and I began to insist that I complete the full Open Water course instead of *just* the Scuba diver. Thankfully, in my parent-teacher meeting between S and my instructors, it was decided that I would only complete the Scuba diver course for the moment and do a series of fun dives after before doing an upgrade to Open Water.
+
+I have learned over time that I don't have to question S's judgement about such things, just blindly follow. She has my best interests at heart and knows my limits better than myself.
+
+Towards the end of the course, Kat started calling me a "water-baby" for how well I had taken to diving and this build my confidence tremendously. I cannot thank her enough for that and how I still think about it when underwater.
+
+[[https://www.facebook.com/permalink.php?story_fbid=2022433711110722&id=100000323394503][Her note]],
+
+#+BEGIN_QUOTE
+In the last 2 days I have been humbled by the huge spirit and fortitude of one of my new Scuba Divers.  Vaarnan you helped me to learn a huge amount about inner strength and facing down challenges so Thank you to you!
+
+I watched you overcome your fears with grace, quiet application and targeted questions.
+
+It was both my privilege and pleasure to help you achieve your Scuba Diver certification at UDC today.
+
+Frankly you rock!  Stay zen and remember - think breathing.
+#+END_QUOTE
+
+/Comments on [[https://twitter.com/vaarnan][Twitter]]/
+
 * [2021-10-30 Sat] Friendships explained by the Marvel universe :noexport:
 :PROPERTIES:
 :CUSTOM_ID: friendships-explained-by-the-marvel-universe
@@ -35,11 +90,10 @@ My take is way more generous to my precious and fragile, larger-than-me ego - we
 :CUSTOM_ID: coding-the-brew-puzzle-24th-december
 :END:
 
-Was catching up on the only newsletter I read everyday, the [[https://morningbrew.com/daily/r/?kid=7fe756][Morning Brew]], and came across their puzzle.
+#+ATTR_HTML: :class responsive
+[[https://blog.vaarnan.com/img/brew_1.jpeg]]
 
-#+BEGIN_QUOTE
-*Your task is to make 100 by placing pluses and minuses in the string of digits 9 8 7 6 5 4 3 2 1 in that order. But that’s not actually your only task. To get full credit on this puzzle, you must find the least number of pluses and minuses needed to get to 100.*
-#+END_QUOTE
+Was catching up on the only newsletter I read everyday, the [[https://morningbrew.com/daily/r/?kid=7fe756][Morning Brew]], and came across their puzzle.
 
 I got the correct answer in my second attempt but wasn't sure it was the "least number" of symbols, so I wrote some code to check it 😆🤓
 
@@ -78,6 +132,9 @@ Contacts below:
 :END:
 
 ** Touchdown Maldives
+
+#+ATTR_HTML: :class responsive
+[[https://blog.vaarnan.com/img/diving_2.jpeg]]
 
 The setup for my PADI Open Water course was far from ideal.
 
@@ -134,6 +191,9 @@ Dive or die?
 :END:
 
 ** The seed
+
+#+ATTR_HTML: :class responsive
+[[https://blog.vaarnan.com/img/diving_1.jpeg]]
 
 *Water is fear, fear is water.*
 
