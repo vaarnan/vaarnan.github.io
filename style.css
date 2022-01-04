@@ -122,6 +122,7 @@ body .tag span {
   color: white;
   padding: 2px 5px;
   border-radius: 4px;
+  cursor: pointer;
 }
 body .org-info-js_info-navigation {
   background: #bbb;
