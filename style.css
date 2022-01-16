@@ -211,7 +211,7 @@ div#text-table-of-contents span.timestamp-wrapper {
 
 /* Remove sub-bullets from the TOC. */
 div#text-table-of-contents ul li ul {
-    display: none;
+    font-size: 0.8rem;
 }
 
 /* Slightly smaller tags for TOC. */
