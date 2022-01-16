@@ -17,7 +17,7 @@
 ** Croatia - Becoming a "proper diver"
 
 #+ATTR_HTML: :class responsive
-[[/img/diving_3.jpeg]]
+[[https://blog.vaarnan.com/img/diving_3.jpeg]]
 /Cliff jumping spot in Dubrovnik, Croatia/
 
 I had signed up for a diving conservation trip with Blue Ventures, in Timor Leste (or East Timor pre-2002 rebrand) after being sold on it by a co-worker.
@@ -26,7 +26,7 @@ Unfortunately, they wanted Advanced Open Water divers though were willing to rel
 
 I was forlorn on what to do and then booked an impromptu trip for the next weekend to Dubrovnik Croatia, one of the nearest "warm" places to dive in Europe and get my Open Water certification.
 
-Rafael Franco was the beast instructor who got me through this course. After a false start when I had to take off my mask in utterly saline water that burned my eyes, I managed to complete my course and become a more careful and professional diver.
+[[https://www.facebook.com/Setentaenove][Rafael Franco]] was the beast instructor who got me through this course. After a false start when I had to take off my mask in utterly saline water that burned my eyes, I managed to complete my course and become a more careful and professional diver.
 
 Rafael has an eagle eye for safety and equipment that's out of place, and he made sure that I had more than earned my stripes for Open Water.
 
