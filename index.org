@@ -2,7 +2,7 @@
 #+AUTHOR:Vaarnan Drolia
 #+OPTIONS: num:nil
 #+KEYWORDS: vaarnan,drolia,simplicity,pseudorandomness,technology
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Crimson%20Pro"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Crimson%20Pro:400,700"/>
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css" />
 #+HTML_HEAD: <!-- Global site tag (gtag.js) - Google Analytics --> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-42744207-1"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-42744207-1'); </script>
 #+HTML_HEAD: <script src="func.js"></script>
