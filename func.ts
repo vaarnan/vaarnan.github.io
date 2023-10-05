@@ -26,14 +26,26 @@ const linkifyTags = function() {
     for (let tagHeading of tags) {
         for (let tag of tagHeading.children) {
             let tagClassName = tag.className;
-            (<HTMLElement>tag).onclick = function(e) {filterByTag(tagClassName) }
+            (<HTMLElement>tag).onclick = function(_) {filterByTag(tagClassName) }
         }
     }
 }
 
+// Contains all the active tags on the page.
+let activeTags: string[] = []
+
 // Filter by the provided tag, pass empty string to show all.
-const filterByTag = function(filterTag: String) {
+const filterByTag = function(filterTag: string) {
     let articles = document.querySelectorAll(".outline-2")
+
+    if (filterTag == "") {
+        activeTags = []
+    } else if (activeTags.includes(filterTag)) {
+        console.log("Ignoring repeated tag application");
+        return
+    } else {
+        activeTags.push(filterTag)
+    }
     for (let article of articles) {
         if (filterTag == "") {
             (<HTMLElement>article).hidden = false
@@ -66,7 +78,7 @@ const filterByTag = function(filterTag: String) {
     var tagFilter = document.createElement("span");
     tagFilter.className = "tag"
     tagFilter.innerHTML = "<span>" + filterTag + " X" + "</span>"
-    tagFilter.onclick = function(e) {
+    tagFilter.onclick = function(_) {
         // TODO: Bug when clearing multiple tags, should instead filter on
         // the remaining tags. Would need marking tags specially.
         // Probably should switch filterTag to array too.

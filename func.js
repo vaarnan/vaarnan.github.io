@@ -1,5 +1,4 @@
 "use strict";
-
 const toggleTableOfContentsHidden = function () {
     var textTOC = document.getElementById("text-table-of-contents");
     if (textTOC != null && window.getComputedStyle(textTOC).display != null) {
@@ -24,26 +23,23 @@ const linkifyTags = function () {
     for (let tagHeading of tags) {
         for (let tag of tagHeading.children) {
             let tagClassName = tag.className;
-            tag.onclick = function (e) { filterByTag(tagClassName); };
+            tag.onclick = function (_) { filterByTag(tagClassName); };
         }
     }
 };
-
 // Contains all the active tags on the page.
 let activeTags = [];
-
 // Filter by the provided tag, pass empty string to show all.
 const filterByTag = function (filterTag) {
-    var _a, _b;
     let articles = document.querySelectorAll(".outline-2");
-
-    console.log(activeTags);
     if (filterTag == "") {
         activeTags = [];
-    } else if (activeTags.includes(filterTag)) {
+    }
+    else if (activeTags.includes(filterTag)) {
         console.log("Ignoring repeated tag application");
         return;
-    } else {
+    }
+    else {
         activeTags.push(filterTag);
     }
     for (let article of articles) {
@@ -51,7 +47,7 @@ const filterByTag = function (filterTag) {
             article.hidden = false;
             continue;
         }
-        let tags = (_a = article.querySelector(".tag")) === null || _a === void 0 ? void 0 : _a.children;
+        let tags = article.querySelector(".tag")?.children;
         if (tags == undefined) {
             article.hidden = true;
             continue;
@@ -78,13 +74,14 @@ const filterByTag = function (filterTag) {
     var tagFilter = document.createElement("span");
     tagFilter.className = "tag";
     tagFilter.innerHTML = "<span>" + filterTag + " X" + "</span>";
-    tagFilter.onclick = function (e) {
+    tagFilter.onclick = function (_) {
         // TODO: Bug when clearing multiple tags, should instead filter on
         // the remaining tags. Would need marking tags specially.
+        // Probably should switch filterTag to array too.
         filterByTag("");
         tagFilter.remove();
     };
-    (_b = textTOC.parentNode) === null || _b === void 0 ? void 0 : _b.insertBefore(tagFilter, textTOC);
+    textTOC.parentNode?.insertBefore(tagFilter, textTOC);
 };
 const globalOnLoad = function () {
     linkifyTableOfContents();
