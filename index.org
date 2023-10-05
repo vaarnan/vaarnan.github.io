@@ -10,22 +10,47 @@
 #+HTML_HEAD: <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 #+HTML_HEAD: <!-- HTML Meta Tags --><title>vaarnan@'s blog</title><meta name="description" content="Simplicity, Pseudorandomness and Technology"><!-- Facebook Meta Tags --><meta property="og:url" content="https://blog.vaarnan.com"><meta property="og:type" content="blog"><meta property="og:title" content="vaarnan@'s blog"><meta property="og:description" content="Simplicity, Pseudorandomness and Technology"><meta property="og:image" content="https://blog.vaarnan.com/profile.png"><!-- Twitter Meta Tags --><meta name="twitter:card" content="summary_large_image"><meta property="twitter:domain" content="blog.vaarnan.com"><meta property="twitter:url" content="https://blog.vaarnan.com/"><meta name="twitter:title" content="vaarnan@'s blog"><meta name="twitter:description" content="Simplicity, Pseudorandomness and Technology"><meta name="twitter:image" content="https://blog.vaarnan.com/profile.png">
 
-* [2023-08-30 Wed] The Lean Startup                                :startups:
+* [2023-10-05 Thu] The Lean Startup                                :startups:
 :PROPERTIES:
 :CUSTOM_ID: lean-startup
 :END:
 
-I'm obsessively re-reading Eric Ries' "The Lean Startup". All I remember from the redbull-fuelled haze during university is that you should always build an MVP, then give it to users and see if they use it.
+#+ATTR_HTML: :class responsive
+[[https://blog.vaarnan.com/img/lean_startup.png]]
+
+I'm obsessively re-reading Eric Ries' "The Lean Startup" ([[https://alumni.lincolncollege.ac.uk/files/2016/11/The-Lean-Startup-by-Eric-Ries-Book-Summary.pdf][summary]]). All I remember from the RedBull-fuelled haze during university is that you should always build an MVP, then give it to users and see if they use it.
 
 Don't waste time building the whole solution, *build-pivot,build-pivot,build-pivot*.
 
-I'm glad to now read it, after a decade at an innovation company and a few years of engineering management behind me, to see a whole new side to "lean startups".
+I'm glad to read it now to see a whole new side to "lean startups", after a decade at an innovation company and years of engineering management behind me.
 
-1. Eric argues *entrepreneurship is a form of "management"*, and uni V would not have agreed with this sentiment one bit (growth 😅). Startups are chaotic and non-hierarchical but they need a process too.
+1. Eric argues *entrepreneurship is a form of "management"*, and uni V would not have agreed with this sentiment one bit (personal growth 😅). Startups are chaotic and non-hierarchical but they need a process too.
 2. *Value creation hypothesis and growth hypothesis* - we constantly talked about creating value but that did not come with the humility of calling them assumptions. We needed to go out and validate them.
 3. *Validated learning* - crunch deadlines to submit our final projects meant we focused too hard on the MVP being the product. The *MVP was merely our tool* to understand what product to create.
 4. *Learn-Measure-Build Cycle* - we should have listed our assumptions, decided what to measure and then built the MVP 🔄 But we did more building than anything else.
-5. Coming soon, still reading!
+5. *Pivot (or Persevere)* - lack of learning prevented making good judgement calls and we were either constantly pulled across competing priorities or building a product no one wanted; net wasted effort 🫠
+6. *Accelerate with small batches* - the quick boom-bust cycle of university projects didn't force me to appreciate this. Years later at Google, we improved our release process infrastructure to push out our app monthly, and I saw our team move from fire-fighting anxiety to peaceful predictable feature development.
+7. *Growth engine* - everything I have done has been sticky or viral. In Google Search we develop features without any mention of monetization. /"It's our job to make great products, the Ads team's job to make the money"/. Works well when laser-focused on the user but fails spectacularly when only looking at vanity metrics.
+8. *Innovation accounting* - you need baselines, continuous measurement and tuning to successfully setup accounting. FOR SALE🪧 -- plot in Vanity metrics purgatory
+9. *5 Whys* - Google had a great process of postmortems to deep-dive and root cause issues. The overhead of these documents and enhanced negative visibility have made them rare, so there isn't a feedback loop after faults to improve.
+
+Hopefully I make new and better mistakes in my future projects.
+
+*Glossary of terms*
+
+/Value creation hypothesis/ tests whether a product or service really delivers value to customers once they are using it.
+
+/Growth hypothesis/ tests how new customers will discover a product or a service.
+
+/MVP/ is that version of the product that enables a full turn of the Build-Measure
+Learn loop with a minimum amount of effort and the least amount of
+development time.
+
+/Vanity metrics/ make you feel good but do not inform strategy. These metrics are aren't actionable unrelated to anything you can control or repeat in a meaningful way.
+
+/5 Whys/ tie investments directly to prevent the most problematic symptoms.
+
+/Comments on [[https://twitter.com/vaarnan][Twitter]]/
 
 * [2022-01-16 Sun] Dive or die (4)                                   :diving:
 :PROPERTIES:
@@ -34,7 +59,7 @@ I'm glad to now read it, after a decade at an innovation company and a few years
 ** Croatia - Becoming a "proper diver"
 
 #+ATTR_HTML: :class responsive
-[[https://blog.vaarnan.com/img/diving_3.jpeg]]
+[[https://blog.vaarnan.com/img/diving_3.png]]
 /Cliff jumping spot in Dubrovnik, Croatia/
 
 I had signed up for a diving conservation trip with Blue Ventures, in Timor Leste (or East Timor pre-2002 rebrand) after being sold on it by a co-worker.
