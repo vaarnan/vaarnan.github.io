@@ -1,0 +1,90 @@
+.top-container {
+    position: relative;
+    display: inline-block;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+}
+
+.text-overlay {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 20px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.0);
+    font-size: 18px;
+    text-color: white;
+}
+
+.text-overlay h1 {
+    font-size: 3.5em;
+    line-height: 0.5;
+    font-family: "Quicksand";
+    font-weight: bold;
+}
+
+.text-overlay h3 {
+    font-size: 1.6em;
+    line-height: 0.5;
+    font-family: "Quicksand";
+    font-weight: lighter;
+}
+
+
+html {
+    font-size: 20px;
+}
+
+.text {
+    margin: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    font-family: "Quicksand",sans-serif;
+    font-size: 20px;
+    background: #000;
+    color: #666;
+    margin: 0;
+    border-top: 3px solid #1692cc;
+}
+
+/* Media Query for phone (max-width 767px) */
+@media only screen and (max-width: 767px) {
+    .text-overlay {
+        position: relative;
+        top: 0;
+        right: 0;
+        color: #666;
+        padding: 20px;
+    }
+
+
+    .text-overlay h1 {
+        font-size: 1.5em;
+        line-height: unset;
+    }
+
+    .text-overlay h3 {
+        font-size: 1em;
+        line-height: unset;
+    }
+
+    h1 {
+        font-size: 1.5em;
+        font-family: "Quicksand";
+        font-weight: bold;
+    }
+
+    h3 {
+        font-size: 1em;
+        font-family: "Quicksand";
+        font-weight: lighter;
+    }
+}
