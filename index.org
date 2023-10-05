@@ -47,7 +47,7 @@ development time.
 
 /Vanity metrics/ make you feel good but do not inform strategy. These metrics are aren't actionable unrelated to anything you can control or repeat in a meaningful way.
 
-/5 Whys/ tie investments directly to prevent the most problematic symptoms.
+/5 Whys/ tie investments directly to prevent the most problematic symptoms by asking Why five times.
 
 /Comments on [[https://twitter.com/vaarnan][Twitter]]/
 
