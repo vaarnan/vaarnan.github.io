@@ -1,4 +1,5 @@
 "use strict";
+
 const toggleTableOfContentsHidden = function () {
     var textTOC = document.getElementById("text-table-of-contents");
     if (textTOC != null && window.getComputedStyle(textTOC).display != null) {
@@ -27,10 +28,24 @@ const linkifyTags = function () {
         }
     }
 };
+
+// Contains all the active tags on the page.
+let activeTags = [];
+
 // Filter by the provided tag, pass empty string to show all.
 const filterByTag = function (filterTag) {
     var _a, _b;
     let articles = document.querySelectorAll(".outline-2");
+
+    console.log(activeTags);
+    if (filterTag == "") {
+        activeTags = [];
+    } else if (activeTags.includes(filterTag)) {
+        console.log("Ignoring repeated tag application");
+        return;
+    } else {
+        activeTags.push(filterTag);
+    }
     for (let article of articles) {
         if (filterTag == "") {
             article.hidden = false;
