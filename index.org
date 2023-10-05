@@ -15,7 +15,6 @@
 :CUSTOM_ID: lean-startup
 :END:
 
-#+ATTR_HTML: :class responsive
 [[https://blog.vaarnan.com/img/lean_startup.jpeg]]
 
 I'm obsessively re-reading Eric Ries' "The Lean Startup" ([[https://alumni.lincolncollege.ac.uk/files/2016/11/The-Lean-Startup-by-Eric-Ries-Book-Summary.pdf][summary]]). All I remember from the RedBull-fuelled haze during university is that you should always build an MVP, then give it to users and see if they use it.
@@ -59,7 +58,7 @@ development time.
 ** Croatia - Becoming a "proper diver"
 
 #+ATTR_HTML: :class responsive
-[[https://blog.vaarnan.com/img/diving_3.png]]
+[[https://blog.vaarnan.com/img/diving_3.jpeg]]
 /Cliff jumping spot in Dubrovnik, Croatia/
 
 I had signed up for a diving conservation trip with Blue Ventures, in Timor Leste (or East Timor pre-2002 rebrand) after being sold on it by a co-worker.
