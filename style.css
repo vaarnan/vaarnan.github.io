@@ -85,7 +85,6 @@ body li {
   margin-bottom: 1em;
 }
 body img {
-  border: 1px solid #ccc;
   height: auto;
 }
 /* Make image responsive and not exceed viewport. */
