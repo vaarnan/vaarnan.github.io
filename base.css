@@ -10,7 +10,7 @@
 
 .text-overlay {
     position: absolute;
-    top: 0;
+    bottom: 0;
     right: 0;
     padding: 20px;
     color: white;
@@ -44,13 +44,19 @@ html {
 
 a {
     text-decoration: none;
+    color: #03bafc;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #514dff;
 }
 
 body {
     font-family: "Quicksand",sans-serif;
     font-size: 20px;
     background: #000;
-    color: #666;
+    color: white;
     margin: 0;
     border-top: 3px solid #1692cc;
 }
@@ -61,7 +67,7 @@ body {
         position: relative;
         top: 0;
         right: 0;
-        color: #666;
+        color: white;
         padding: 20px;
     }
 
