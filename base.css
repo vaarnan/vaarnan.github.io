@@ -16,6 +16,10 @@
     display: none;
 }
 
+#mentor-cruise-banner {
+    padding: 20px;
+}
+
 .text-overlay {
     position: absolute;
     bottom: 0;
