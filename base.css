@@ -1,6 +1,6 @@
 .top-container {
     position: relative;
-    display: inline-block;
+    min-height: 90vh;
 }
 
 .responsive {
@@ -10,6 +10,9 @@
 
 #cambridge-punting {
     display: inline-block;
+    object-fit: cover;
+    height: 90vh;
+    width: 100%;
 }
 
 #cambridge-punting-mobile {
@@ -111,5 +114,9 @@ body {
 
     #cambridge-punting-mobile {
         display: inline-block;
+    }
+
+    .top-container {
+        min-height: unset;
     }
 }
