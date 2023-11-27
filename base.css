@@ -134,6 +134,7 @@ body {
         object-fit: cover;
         height: 90vh;
         width: 100%;
+        object-position: left;
     }
 
     #follow-bar {
