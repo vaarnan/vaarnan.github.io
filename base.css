@@ -16,6 +16,10 @@
     padding: 20px;
 }
 
+img {
+    border-radius: 0.5%;
+}
+
 .text-overlay {
     position: absolute;
     bottom: 0;
