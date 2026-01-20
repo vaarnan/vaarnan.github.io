@@ -176,6 +176,9 @@ body {
     #top-container-hi-header, #top-container-build-header {
         display: block;
     }
+    #top-container-build-header {
+        margin-bottom: 1em;
+    }
 
     .text-overlay {
         display: none;
