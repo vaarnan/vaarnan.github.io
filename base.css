@@ -71,6 +71,13 @@ body {
   margin: 0;
 }
 
+.book-me {
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
 .product-icons {
   display: flex;
   gap: 24px;
@@ -112,6 +119,11 @@ body {
 
 /* Media Query for phone (max-width 767px) */
 @media only screen and (max-width: 767px) {
+  .book-me {
+    flex-direction: column;
+    align-items: center;
+  }
+
   .product-icons {
     flex-direction: column;
     align-items: left;
