@@ -12,7 +12,7 @@
     display: none;
 }
 
-#mentor-cruise-banner {
+#privates-coach-banner {
     padding: 20px;
 }
 
@@ -139,7 +139,7 @@ body {
         display: inline-block;
     }
 
-    #mentor-cruise-banner {
+    #privates-coach-banner {
         width: 240px;
     }
 
@@ -176,7 +176,7 @@ body {
         align-items: center;
     }
 
-    #mentor-cruise-banner {
+    #privates-coach-banner {
         height: 4em;
     }
 
