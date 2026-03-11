@@ -1,216 +1,218 @@
 .top-container {
-    position: relative;
-    min-height: 90vh;
+  position: relative;
+  min-height: 90vh;
 }
 
 .responsive {
-    width: 100%;
-    height: auto;
+  width: 100%;
+  height: auto;
 }
 
 #cambridge-punting-mobile {
-    display: none;
+  display: none;
 }
 
 #privates-coach-banner {
-    padding: 20px;
+  padding: 20px;
 }
 
 img {
-    border-radius: 1%;
+  border-radius: 1%;
 }
 
 .text-overlay {
-    position: absolute;
-    bottom: 0;
-    right: 0;
-    padding: 20px;
-    color: white;
-    background-color: rgba(0, 0, 0, 0.0);
-    font-size: 18px;
-    text-color: white;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding: 20px;
+  color: white;
+  background-color: rgba(0, 0, 0, 0);
+  font-size: 18px;
+  text-color: white;
 }
 
 .text-overlay h1 {
-    font-size: 3.5em;
-    line-height: 0.5;
-    font-family: "Quicksand";
-    font-weight: bold;
+  font-size: 3.5em;
+  line-height: 0.5;
+  font-family: "Quicksand";
+  font-weight: bold;
 }
 
 .text-overlay h3 {
-    font-size: 1.6em;
-    line-height: 0.5;
-    font-family: "Quicksand";
-    font-weight: lighter;
+  font-size: 1.6em;
+  line-height: 0.5;
+  font-family: "Quicksand";
+  font-weight: lighter;
 }
 
-
 html {
-    font-size: 20px;
+  font-size: 20px;
 }
 
 .text {
-    margin: 20px;
+  margin: 20px;
 }
 
 a {
-    text-decoration: none;
-    color: #03bafc;
+  text-decoration: none;
+  color: #03bafc;
 }
 
 a:hover {
-    text-decoration: none;
-    color: #514dff;
+  text-decoration: none;
+  color: #514dff;
 }
 
 body {
-    font-family: "Quicksand",sans-serif;
-    font-size: 20px;
-    background: #000;
-    color: white;
-    margin: 0;
+  font-family: "Quicksand", sans-serif;
+  font-size: 20px;
+  background: #000;
+  color: white;
+  margin: 0;
 }
 
 .product-icons {
-    display: flex;
-    gap: 24px;
-    justify-content: center;
-    flex-wrap: wrap;
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+  flex-wrap: wrap;
 }
 
 .product-icon-link {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 6px;
-    font-size: 0.75em;
-    color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.75em;
+  color: white;
 }
 
 .product-icon-link img {
-    border-radius: 12px;
+  border-radius: 12px;
 }
 
 #follow-bar .text a {
-    align-items: center;
-    display: inline-flex;
+  align-items: center;
+  display: inline-flex;
 }
 
 /* Media Query for phone (max-width 767px) */
 @media only screen and (max-width: 767px) {
-    .product-icons {
-        flex-direction: column;
-        align-items: center;
-    }
+  .product-icons {
+    flex-direction: column;
+    align-items: center;
+  }
 
-    .product-icon-link {
-        flex-direction: row;
-        gap: 12px;
-    }
+  .product-icon-link {
+    flex-direction: row;
+    gap: 12px;
+  }
 
-    .text-overlay {
-        position: relative;
-        top: 0;
-        right: 0;
-        color: white;
-        padding: 20px;
-        display: block;
-    }
+  .text-overlay {
+    position: relative;
+    top: 0;
+    right: 0;
+    color: white;
+    padding: 20px;
+    display: block;
+  }
 
+  .text-overlay h1 {
+    font-size: 1.5em;
+    line-height: unset;
+  }
 
-    .text-overlay h1 {
-        font-size: 1.5em;
-        line-height: unset;
-    }
+  .text-overlay h3 {
+    font-size: 1em;
+    line-height: unset;
+  }
 
-    .text-overlay h3 {
-        font-size: 1em;
-        line-height: unset;
-    }
+  h1 {
+    font-size: 1.5em;
+    font-family: "Quicksand";
+    font-weight: bold;
+  }
 
-    h1 {
-        font-size: 1.5em;
-        font-family: "Quicksand";
-        font-weight: bold;
-    }
+  h3 {
+    font-size: 1em;
+    font-family: "Quicksand";
+    font-weight: lighter;
+  }
 
-    h3 {
-        font-size: 1em;
-        font-family: "Quicksand";
-        font-weight: lighter;
-    }
+  #cambridge-punting {
+    display: none;
+  }
 
-    #cambridge-punting {
-        display: none;
-    }
+  #cambridge-punting-mobile {
+    display: inline-block;
+  }
 
-    #cambridge-punting-mobile {
-        display: inline-block;
-    }
+  #privates-coach-banner {
+    width: 240px;
+  }
 
-    #privates-coach-banner {
-        width: 240px;
-    }
+  .social-icon {
+    width: 1.5em;
+    margin-right: 5px;
+  }
 
-    .social-icon {
-        width: 1.5em;
-        margin-right: 5px;
-    }
+  .top-container {
+    min-height: unset;
+  }
 
-    .top-container {
-        min-height: unset;
-    }
-
-    #top-container-hi-header, #top-container-build-header {
-        display: none;
-    }
+  #top-container-hi-header,
+  #top-container-build-header {
+    display: none;
+  }
 }
 
 @media only screen and (min-width: 768px) {
-    #cambridge-punting {
-        display: inline-block;
-        object-fit: cover;
-        height: 90vh;
-        width: 100%;
-        object-position: left;
-    }
+  #cambridge-punting {
+    display: inline-block;
+    object-fit: cover;
+    height: 90vh;
+    width: 100%;
+    object-position: left;
+  }
 
-    #follow-bar {
-        bottom: 0;
-        width: 100%;
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-between;
-        overflow: auto;
-        align-items: center;
-    }
+  #follow-bar {
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    overflow: auto;
+    align-items: center;
+  }
 
-    #privates-coach-banner {
-        height: 4em;
-    }
+  #privates-coach-banner {
+    height: 4em;
+  }
 
-    .social-icon {
-        height: 3em;
-        width: auto;
-        margin-right: 5px;
-    }
+  .social-icon {
+    height: 3em;
+    width: auto;
+    margin-right: 5px;
+  }
 
-    .top-container, #follow-bar, #about-me {
-        max-width: 800px;
-        margin: 50px auto;
-        margin-top: 0px;
-        text-align: center;
-    }
+  .top-container,
+  #follow-bar,
+  #about-me {
+    max-width: 800px;
+    margin: 50px auto;
+    margin-top: 0px;
+    text-align: center;
+  }
 
-    #top-container-hi-header, #top-container-build-header {
-        display: block;
-    }
-    #top-container-build-header {
-        margin-bottom: 1em;
-    }
+  #top-container-hi-header,
+  #top-container-build-header {
+    display: block;
+  }
+  #top-container-build-header {
+    margin-bottom: 1em;
+  }
 
-    .text-overlay {
-        display: none;
-    }
+  .text-overlay {
+    display: none;
+  }
 }
