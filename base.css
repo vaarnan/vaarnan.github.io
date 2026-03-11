@@ -99,6 +99,16 @@ body {
 
 /* Media Query for phone (max-width 767px) */
 @media only screen and (max-width: 767px) {
+    .product-icons {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .product-icon-link {
+        flex-direction: row;
+        gap: 12px;
+    }
+
     .text-overlay {
         position: relative;
         top: 0;
