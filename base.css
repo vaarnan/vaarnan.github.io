@@ -96,6 +96,20 @@ body {
   display: inline-flex;
 }
 
+@media only screen and (orientation: portrait) {
+  #cambridge-punting {
+    display: none !important;
+  }
+
+  #cambridge-punting-mobile {
+    display: inline-block;
+  }
+  .top-container {
+    position: relative;
+    min-height: unset;
+  }
+}
+
 /* Media Query for phone (max-width 767px) */
 @media only screen and (max-width: 767px) {
   .product-icons {
