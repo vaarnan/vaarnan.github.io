@@ -72,6 +72,26 @@ body {
     margin: 0;
 }
 
+.product-icons {
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.product-icon-link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+    font-size: 0.75em;
+    color: white;
+}
+
+.product-icon-link img {
+    border-radius: 12px;
+}
+
 #follow-bar .text a {
     align-items: center;
     display: inline-flex;
